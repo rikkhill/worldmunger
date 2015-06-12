@@ -1,6 +1,9 @@
+require './lib/munge.rb'
 require 'json'
 require 'world_bank'
 require 'pp'
+
+include Munger
 
 class NilRecord
   @value = nil
@@ -10,8 +13,7 @@ class NilRecord
   end
 end
 
-# Get a list of all country ISO2 codes
-countries = WorldBank::Country.all.fetch.map { |c| c.name}
+countries = Countries.new
 
 # Get indicators of interest
 indicators = {
@@ -22,23 +24,33 @@ indicators = {
 
 output = {}
 
-countries.each do |c|
+countries.all_codes.each do |c|
+  puts "getting data for #{c} (#{countries.get_country(c)})"
   output[c] = {}
   indicators.each do |key, val|
     begin
-      n = WorldBank::Data.country(c.downcase).indicator(val).dates('2005:2015').fetch
+      n = WorldBank::Data.country(c).indicator(val).dates('2005:2015').fetch
       record = n.find {|i| i.value != nil}
       if (record == nil) then
         raise "Nil record"
       end
-    rescue
+    rescue Exception => e
+      if e.message == "Nil record"
+        puts "No data for this indicator (#{val})"
+      else
+        puts "No country for this code"
+      end
       record = NilRecord
     end
-    output[c][key] = {
-      :value  => record.value,
-      :date   => record.date
+    output[c][val] = {
+      :value      => record.value,
+      :date       => record.date,
+      :statistic  => val,
+      :origin     => "World Bank"
     }
   end
 end
 
-pp output
+File.open("./json/worldbank.json", "w") do |f|
+  f.write(JSON.pretty_generate(output))
+end

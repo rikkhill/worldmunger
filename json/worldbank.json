@@ -1,0 +1,3474 @@
+{
+  "AW": {
+    "NY.GDP.PCAP.CD": {
+      "value": "25354.7824741086",
+      "date": "2011",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "36016.4837574639",
+      "date": "2011",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "AF": {
+    "NY.GDP.PCAP.CD": {
+      "value": "664.764589155526",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1946.19380603184",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "AO": {
+    "NY.GDP.PCAP.CD": {
+      "value": "5783.36675958641",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "7736.17468163313",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "AI": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "AX": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "AL": {
+    "NY.GDP.PCAP.CD": {
+      "value": "4460.34097119302",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "9930.94322639175",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "AD": {
+    "NY.GDP.PCAP.CD": {
+      "value": "46418.4154673278",
+      "date": "2008",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "AE": {
+    "NY.GDP.PCAP.CD": {
+      "value": "43048.8501491565",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "59845.2568174939",
+      "date": "2012",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "AR": {
+    "NY.GDP.PCAP.CD": {
+      "value": "14715.1800198309",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "AM": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3504.76675848947",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "7776.2860430691",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "AS": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "AQ": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "TF": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "AG": {
+    "NY.GDP.PCAP.CD": {
+      "value": "13342.0849977054",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "21027.8266399337",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "AU": {
+    "NY.GDP.PCAP.CD": {
+      "value": "67463.0219299855",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "43202.3676878115",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "AT": {
+    "NY.GDP.PCAP.CD": {
+      "value": "50510.7120335195",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "45079.0922111043",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "AZ": {
+    "NY.GDP.PCAP.CD": {
+      "value": "7811.6214184582",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "17143.1096651869",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BI": {
+    "NY.GDP.PCAP.CD": {
+      "value": "267.109321867395",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "771.71542954274",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BE": {
+    "NY.GDP.PCAP.CD": {
+      "value": "46929.6354590432",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "41574.7563087295",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BJ": {
+    "NY.GDP.PCAP.CD": {
+      "value": "804.692498598861",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1790.75363672991",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BF": {
+    "NY.GDP.PCAP.CD": {
+      "value": "760.852951188714",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1684.47965093318",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BD": {
+    "NY.GDP.PCAP.CD": {
+      "value": "957.824266028903",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2948.01488976887",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BG": {
+    "NY.GDP.PCAP.CD": {
+      "value": "7498.83148441441",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "15731.6726237737",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BH": {
+    "NY.GDP.PCAP.CD": {
+      "value": "24689.105627649",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "43850.9397176741",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BS": {
+    "NY.GDP.PCAP.CD": {
+      "value": "22312.0829733898",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "23264.2722108642",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BA": {
+    "NY.GDP.PCAP.CD": {
+      "value": "4661.76424465729",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "9535.5397905006",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BL": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BY": {
+    "NY.GDP.PCAP.CD": {
+      "value": "7575.48211011402",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "17619.7696564982",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BZ": {
+    "NY.GDP.PCAP.CD": {
+      "value": "4893.92663452847",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "8486.89853967369",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BM": {
+    "NY.GDP.PCAP.CD": {
+      "value": "84470.7552702244",
+      "date": "2012",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "53056.4377612925",
+      "date": "2012",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BO": {
+    "NY.GDP.PCAP.CD": {
+      "value": "2867.63979143886",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "6131.06168856137",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BR": {
+    "NY.GDP.PCAP.CD": {
+      "value": "11208.0827350494",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "15037.4574693446",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BB": {
+    "NY.GDP.PCAP.CD": {
+      "value": "14917.1495051568",
+      "date": "2012",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "15573.9931836007",
+      "date": "2012",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BN": {
+    "NY.GDP.PCAP.CD": {
+      "value": "38563.3145093197",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "71776.6480123078",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BT": {
+    "NY.GDP.PCAP.CD": {
+      "value": "2362.58173657366",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "7404.73678431865",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BV": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "BW": {
+    "NY.GDP.PCAP.CD": {
+      "value": "7315.01928869892",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "15751.9022060328",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CF": {
+    "NY.GDP.PCAP.CD": {
+      "value": "333.19688062793",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "603.742959794015",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CA": {
+    "NY.GDP.PCAP.CD": {
+      "value": "51964.3302265425",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "42752.6574456961",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CC": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CH": {
+    "NY.GDP.PCAP.CD": {
+      "value": "84748.3653090717",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "56950.0243389194",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CL": {
+    "NY.GDP.PCAP.CD": {
+      "value": "15732.3137736906",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "21942.1546463448",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CN": {
+    "NY.GDP.PCAP.CD": {
+      "value": "6807.4308241222",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "11906.5073908244",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CI": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1528.93753910821",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3210.45464438594",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CM": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1328.64020534474",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2830.12953902169",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CD": {
+    "NY.GDP.PCAP.CD": {
+      "value": "484.211471295874",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "809.217533443526",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CG": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3167.04532220203",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "5868.48055101527",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CK": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CO": {
+    "NY.GDP.PCAP.CD": {
+      "value": "7831.21531317397",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "12423.9230431716",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "KM": {
+    "NY.GDP.PCAP.CD": {
+      "value": "814.957148838668",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1446.17149475964",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CV": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3767.1153636954",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "6416.317160988",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CR": {
+    "NY.GDP.PCAP.CD": {
+      "value": "10184.6056715087",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "13875.8563536715",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CU": {
+    "NY.GDP.PCAP.CD": {
+      "value": "6051.22200117364",
+      "date": "2011",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "18796.1925231461",
+      "date": "2011",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CW": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CX": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "KY": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CY": {
+    "NY.GDP.PCAP.CD": {
+      "value": "25248.9810656095",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "28224.4574448048",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "CZ": {
+    "NY.GDP.PCAP.CD": {
+      "value": "19858.3434636115",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "29017.8364426335",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "DE": {
+    "NY.GDP.PCAP.CD": {
+      "value": "46251.3818043198",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "43883.9100960419",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "DJ": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1668.336703229",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2998.74058570901",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "DM": {
+    "NY.GDP.PCAP.CD": {
+      "value": "7175.62694147003",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "10343.1557312332",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "DK": {
+    "NY.GDP.PCAP.CD": {
+      "value": "59818.6315281878",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "43782.165053723",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "DO": {
+    "NY.GDP.PCAP.CD": {
+      "value": "5878.99672094992",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "12186.388560558",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "DZ": {
+    "NY.GDP.PCAP.CD": {
+      "value": "5360.70114645178",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "13320.2321901285",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "EC": {
+    "NY.GDP.PCAP.CD": {
+      "value": "6002.88545889096",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "10889.9891270309",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "EG": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3314.46292795644",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "11089.2111773151",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "ER": {
+    "NY.GDP.PCAP.CD": {
+      "value": "543.821908261171",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1195.67675726337",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "EH": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "ES": {
+    "NY.GDP.PCAP.CD": {
+      "value": "29882.135792772",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "33093.9513715373",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "EE": {
+    "NY.GDP.PCAP.CD": {
+      "value": "18877.3304932551",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "25823.3887479939",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "ET": {
+    "NY.GDP.PCAP.CD": {
+      "value": "505.045745754175",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1380.00026448913",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "FI": {
+    "NY.GDP.PCAP.CD": {
+      "value": "49150.5773018023",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "39740.2145860155",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "FJ": {
+    "NY.GDP.PCAP.CD": {
+      "value": "4375.40602174569",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "7750.43065903864",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "FK": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "FR": {
+    "NY.GDP.PCAP.CD": {
+      "value": "42560.413729594",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "37532.3941095928",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "FO": {
+    "NY.GDP.PCAP.CD": {
+      "value": "44317.305892908",
+      "date": "2009",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "FM": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3054.06812233822",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3394.64727547184",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GA": {
+    "NY.GDP.PCAP.CD": {
+      "value": "11571.082919629",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "19264.3359398216",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GB": {
+    "NY.GDP.PCAP.CD": {
+      "value": "41781.1490232051",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "38259.1728772493",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GE": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3596.90831969687",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "7159.97068795563",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GG": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GH": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1858.24259798123",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3992.09003884754",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GI": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GN": {
+    "NY.GDP.PCAP.CD": {
+      "value": "523.119032227905",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1253.08489968023",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GP": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GM": {
+    "NY.GDP.PCAP.CD": {
+      "value": "488.56559462467",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1661.42355399369",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GW": {
+    "NY.GDP.PCAP.CD": {
+      "value": "563.752771431122",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1407.02677224558",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GQ": {
+    "NY.GDP.PCAP.CD": {
+      "value": "20581.6059358535",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "33768.289851408",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GR": {
+    "NY.GDP.PCAP.CD": {
+      "value": "21965.926768399",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "25666.6735448007",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GD": {
+    "NY.GDP.PCAP.CD": {
+      "value": "7890.51331904397",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "11645.340600932",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GL": {
+    "NY.GDP.PCAP.CD": {
+      "value": "22507.8887155204",
+      "date": "2009",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GT": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3477.89006095894",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "7296.59257319642",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GF": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GU": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GY": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3739.46999483479",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "6545.93223037864",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "HK": {
+    "NY.GDP.PCAP.CD": {
+      "value": "38123.5221180602",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "53215.9373734741",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "HM": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "HN": {
+    "NY.GDP.PCAP.CD": {
+      "value": "2290.7805332533",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "4592.59339927457",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "HR": {
+    "NY.GDP.PCAP.CD": {
+      "value": "13597.921445951",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "21350.5210754599",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "HT": {
+    "NY.GDP.PCAP.CD": {
+      "value": "819.903914321224",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1703.02934940234",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "HU": {
+    "NY.GDP.PCAP.CD": {
+      "value": "13485.4720683877",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "23334.3194270361",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "ID": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3475.25047362315",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "9561.12635183094",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "IM": {
+    "NY.GDP.PCAP.CD": {
+      "value": "49817.4446933772",
+      "date": "2007",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "IN": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1497.54986423319",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "5417.74894832947",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "IO": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "IE": {
+    "NY.GDP.PCAP.CD": {
+      "value": "50478.4103299986",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "45684.4484693966",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "IR": {
+    "NY.GDP.PCAP.CD": {
+      "value": "4763.30330925084",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "15590.1519646088",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "IQ": {
+    "NY.GDP.PCAP.CD": {
+      "value": "6862.49568142531",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "14951.0776794266",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "IS": {
+    "NY.GDP.PCAP.CD": {
+      "value": "47349.4825463877",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "41859.1857860484",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "IL": {
+    "NY.GDP.PCAP.CD": {
+      "value": "36050.6979270706",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "32490.6207427851",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "IT": {
+    "NY.GDP.PCAP.CD": {
+      "value": "35685.5990364728",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "35280.7377429301",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "JM": {
+    "NY.GDP.PCAP.CD": {
+      "value": "5290.48613415082",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "8892.76280395972",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "JE": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "JO": {
+    "NY.GDP.PCAP.CD": {
+      "value": "5213.39011578947",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "11782.7074590147",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "JP": {
+    "NY.GDP.PCAP.CD": {
+      "value": "38633.7080591795",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "36223.3406743794",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "KZ": {
+    "NY.GDP.PCAP.CD": {
+      "value": "13611.5373619663",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "23214.3548260719",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "KE": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1245.51204094041",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2794.98131908266",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "KG": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1263.42808260643",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3212.87626712181",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "KH": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1006.8397443356",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3041.07709021153",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "KI": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1650.7072236263",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1855.82888361975",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "KN": {
+    "NY.GDP.PCAP.CD": {
+      "value": "14132.8018797709",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "21395.6932205761",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "KR": {
+    "NY.GDP.PCAP.CD": {
+      "value": "25976.9528250314",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "33062.4434026673",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "XK": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3877.17063627936",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "8883.52754793466",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "KW": {
+    "NY.GDP.PCAP.CD": {
+      "value": "52197.3413356747",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "83839.7309247584",
+      "date": "2012",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "LA": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1660.70603054407",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "4822.02207368924",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "LB": {
+    "NY.GDP.PCAP.CD": {
+      "value": "9928.03809840595",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "17173.8422362362",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "LR": {
+    "NY.GDP.PCAP.CD": {
+      "value": "454.337483405654",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "877.995480056484",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "LY": {
+    "NY.GDP.PCAP.CD": {
+      "value": "11964.7306962965",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "21046.3473378789",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "LC": {
+    "NY.GDP.PCAP.CD": {
+      "value": "7328.37069182551",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "10487.9682765538",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "LI": {
+    "NY.GDP.PCAP.CD": {
+      "value": "134617.379609051",
+      "date": "2009",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "LK": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3279.89138972612",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "9738.11917417447",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "LS": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1125.58642735989",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2576.25549405545",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "LT": {
+    "NY.GDP.PCAP.CD": {
+      "value": "15529.6816107657",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "25453.5447491874",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "LU": {
+    "NY.GDP.PCAP.CD": {
+      "value": "110664.840296737",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "91047.5888834933",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "LV": {
+    "NY.GDP.PCAP.CD": {
+      "value": "15381.0835320788",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "22568.5023237427",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MO": {
+    "NY.GDP.PCAP.CD": {
+      "value": "91376.0225367419",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "142599.240319212",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MF": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MA": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3092.60654509577",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "7198.16371916788",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MC": {
+    "NY.GDP.PCAP.CD": {
+      "value": "163025.859027458",
+      "date": "2011",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MD": {
+    "NY.GDP.PCAP.CD": {
+      "value": "2239.55912744088",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "4670.91976235625",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MG": {
+    "NY.GDP.PCAP.CD": {
+      "value": "462.968942802867",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1413.99075673979",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MV": {
+    "NY.GDP.PCAP.CD": {
+      "value": "6665.76769481571",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "11656.7428360248",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MX": {
+    "NY.GDP.PCAP.CD": {
+      "value": "10307.283036092",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "16369.6856266379",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MH": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3627.21054831478",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3900.99731010833",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MK": {
+    "NY.GDP.PCAP.CD": {
+      "value": "4838.46210462289",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "11611.97490519",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "ML": {
+    "NY.GDP.PCAP.CD": {
+      "value": "715.133812989422",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1641.83452128449",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MT": {
+    "NY.GDP.PCAP.CD": {
+      "value": "22774.9603787941",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "29126.7811266912",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MM": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "ME": {
+    "NY.GDP.PCAP.CD": {
+      "value": "7106.86177444835",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "14131.6050000068",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MN": {
+    "NY.GDP.PCAP.CD": {
+      "value": "4056.39783876598",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "9434.9627693653",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MP": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MZ": {
+    "NY.GDP.PCAP.CD": {
+      "value": "605.034174437901",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1105.07349763736",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MR": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1068.97459670874",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3042.83849410548",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MS": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MQ": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MU": {
+    "NY.GDP.PCAP.CD": {
+      "value": "9477.79158698406",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "17714.017756009",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MW": {
+    "NY.GDP.PCAP.CD": {
+      "value": "226.45510265016",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "780.003107565482",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "MY": {
+    "NY.GDP.PCAP.CD": {
+      "value": "10538.0578871612",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "23338.0140244332",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "YT": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "NA": {
+    "NY.GDP.PCAP.CD": {
+      "value": "5693.12915367405",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "9583.18475656442",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "NC": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "NE": {
+    "NY.GDP.PCAP.CD": {
+      "value": "415.417321798037",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "916.199691229844",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "NF": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "NG": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3005.51379633974",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "5602.40879552442",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "NI": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1851.10585221271",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "4642.69625070461",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "NU": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "NL": {
+    "NY.GDP.PCAP.CD": {
+      "value": "50792.5142584086",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "46162.0916473842",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "NO": {
+    "NY.GDP.PCAP.CD": {
+      "value": "100898.361496832",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "64405.7122213084",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "NP": {
+    "NY.GDP.PCAP.CD": {
+      "value": "694.10479433434",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2244.79962842638",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "NR": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "NZ": {
+    "NY.GDP.PCAP.CD": {
+      "value": "41824.3228389982",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "34731.5690656862",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "OM": {
+    "NY.GDP.PCAP.CD": {
+      "value": "21929.0145745223",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "45333.7502649033",
+      "date": "2012",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "PK": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1275.30181716068",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "4601.68894303447",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "PA": {
+    "NY.GDP.PCAP.CD": {
+      "value": "11036.8073868386",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "19416.2320170688",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "PN": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "PE": {
+    "NY.GDP.PCAP.CD": {
+      "value": "6661.59111226107",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "11774.1883417434",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "PH": {
+    "NY.GDP.PCAP.CD": {
+      "value": "2765.08458658032",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "6535.87586381471",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "PW": {
+    "NY.GDP.PCAP.CD": {
+      "value": "11810.087006406",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "15095.9881392384",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "PG": {
+    "NY.GDP.PCAP.CD": {
+      "value": "2105.26987638661",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2642.90578071692",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "PL": {
+    "NY.GDP.PCAP.CD": {
+      "value": "13653.7216254414",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "23689.9023666708",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "PR": {
+    "NY.GDP.PCAP.CD": {
+      "value": "28528.9970971645",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "34752.376062686",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "KP": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "PT": {
+    "NY.GDP.PCAP.CD": {
+      "value": "21738.291595169",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "27804.1561094391",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "PY": {
+    "NY.GDP.PCAP.CD": {
+      "value": "4264.65064186682",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "8092.67275665026",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "PS": {
+    "NY.GDP.PCAP.CD": {
+      "value": "2782.90502643023",
+      "date": "2012",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "4921.39285519528",
+      "date": "2012",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "PF": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "QA": {
+    "NY.GDP.PCAP.CD": {
+      "value": "93714.0633825214",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "136727.253610167",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "RE": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "RO": {
+    "NY.GDP.PCAP.CD": {
+      "value": "9490.75443287045",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "18974.4057849472",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "RU": {
+    "NY.GDP.PCAP.CD": {
+      "value": "14611.700777684",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "25247.9400353489",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "RW": {
+    "NY.GDP.PCAP.CD": {
+      "value": "638.66579543853",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1473.63801166274",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SA": {
+    "NY.GDP.PCAP.CD": {
+      "value": "25961.8084232923",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "53644.1269250098",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SD": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1753.38091039699",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3372.97200690061",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SN": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1046.58642640507",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2241.99652516017",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SG": {
+    "NY.GDP.PCAP.CD": {
+      "value": "55182.4827916113",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "78763.3849443771",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "GS": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SJ": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SB": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1953.55731759549",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2068.96106224769",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SL": {
+    "NY.GDP.PCAP.CD": {
+      "value": "678.960904459799",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1544.18323961817",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SV": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3826.08248557595",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "7764.14274460714",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SM": {
+    "NY.GDP.PCAP.CD": {
+      "value": "62188.9285937468",
+      "date": "2008",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SO": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "PM": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "RS": {
+    "NY.GDP.PCAP.CD": {
+      "value": "6353.82638279332",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "13019.8207194707",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SS": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1044.99516223827",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2029.7334400689",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "ST": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1609.82333937573",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2971.06707976578",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SR": {
+    "NY.GDP.PCAP.CD": {
+      "value": "9825.74392108657",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "16071.3846314326",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SK": {
+    "NY.GDP.PCAP.CD": {
+      "value": "18049.183464063",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "26496.6154491917",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SI": {
+    "NY.GDP.PCAP.CD": {
+      "value": "23295.3390867714",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "28858.6813467723",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SE": {
+    "NY.GDP.PCAP.CD": {
+      "value": "60380.9480129258",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "44658.2317867812",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SZ": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3034.2231842349",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "6685.33811734131",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SX": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SC": {
+    "NY.GDP.PCAP.CD": {
+      "value": "16185.8994805264",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "24587.4855947311",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "SY": {
+    "NY.GDP.PCAP.CD": {
+      "value": "2065.53963216625",
+      "date": "2007",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "TC": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "TD": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1053.66250096527",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2088.5918355193",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "TG": {
+    "NY.GDP.PCAP.CD": {
+      "value": "636.436450003819",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1390.51971095318",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "TH": {
+    "NY.GDP.PCAP.CD": {
+      "value": "5778.97721600158",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "14393.5307035565",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "TJ": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1036.58327586973",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2512.24756635",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "TK": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "TM": {
+    "NY.GDP.PCAP.CD": {
+      "value": "7986.69888371428",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "14004.160056658",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "TL": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1105.34936873236",
+      "date": "2012",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2076.43707854128",
+      "date": "2012",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "TO": {
+    "NY.GDP.PCAP.CD": {
+      "value": "4426.94458088684",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "5304.20668898596",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "TT": {
+    "NY.GDP.PCAP.CD": {
+      "value": "18372.9043244137",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "30446.0075388524",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "TN": {
+    "NY.GDP.PCAP.CD": {
+      "value": "4316.68569496563",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "11124.4960087614",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "TR": {
+    "NY.GDP.PCAP.CD": {
+      "value": "10971.6563060949",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "18782.8457521051",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "TV": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3880.35232167543",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3645.1579296558",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "TW": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "TZ": {
+    "NY.GDP.PCAP.CD": {
+      "value": "912.700309666541",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2443.07223107863",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "UG": {
+    "NY.GDP.PCAP.CD": {
+      "value": "657.370663533795",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1674.28506898198",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "UA": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3900.46537573638",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "8789.98200051008",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "UM": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "UY": {
+    "NY.GDP.PCAP.CD": {
+      "value": "16350.72817048",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "19594.3695607622",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "US": {
+    "NY.GDP.PCAP.CD": {
+      "value": "53041.9814055623",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "53041.9814055623",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "UZ": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1877.9645118434",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "5167.9271637961",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "VA": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "VC": {
+    "NY.GDP.PCAP.CD": {
+      "value": "6485.67914554035",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "10490.6041669164",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "VE": {
+    "NY.GDP.PCAP.CD": {
+      "value": "14414.7535260923",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "18198.3700172414",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "VG": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "VI": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "VN": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1910.51281756213",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "5294.43986933333",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "VU": {
+    "NY.GDP.PCAP.CD": {
+      "value": "3276.73425751835",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2990.91682998287",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "WF": {
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "WS": {
+    "NY.GDP.PCAP.CD": {
+      "value": "4212.36346519193",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "5768.98576875814",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "YE": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1473.09956375508",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3959.29188263281",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "ZA": {
+    "NY.GDP.PCAP.CD": {
+      "value": "6886.29040549387",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "12866.939794068",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "ZM": {
+    "NY.GDP.PCAP.CD": {
+      "value": "1844.79913932394",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3925.46238739217",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  },
+  "ZW": {
+    "NY.GDP.PCAP.CD": {
+      "value": "953.380607065278",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.CD",
+      "origin": "World Bank"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1832.08324432316",
+      "date": "2013",
+      "statistic": "NY.GDP.PCAP.PP.CD",
+      "origin": "World Bank"
+    }
+  }
+}

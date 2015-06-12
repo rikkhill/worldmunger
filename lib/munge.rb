@@ -1,18 +1,32 @@
 require 'json'
 require 'pp'
 
-country_file = File.read('./json/countries.json')
-countries = JSON.parse(country_file)
+module Munger
+  ## Helper object for consistent country identities across platforms
+  class Countries
+    def initialize
+      countries =  JSON.parse( File.read('./json/countries.json'))
+      @code_hash = {}
+      countries.each do |country|
+        @code_hash[country['cca2']] =  country['name']['common']
+      end
+    end
 
-# create 'base' hash indexed by ISO2 country code
+    def get_country(code)
+      return @code_hash[code]
+    end
 
-output = {}
+    def get_code(name)
+      return @code_hash.invert[name]
+    end
 
-countries.each do |country|
-  output[country['cca2']] = {
-    :name     => country['name']['common'],
-    :capital  => country['capital']
-  }
+    def all_codes
+      return @code_hash.keys
+    end
+
+    def all_countries
+      return @code_hash.values
+    end
+  end
+
 end
-
-pp output
