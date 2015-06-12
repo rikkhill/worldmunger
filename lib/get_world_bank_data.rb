@@ -16,41 +16,50 @@ end
 countries = Countries.new
 
 # Get indicators of interest
-indicators = {
-  :gdp_pc     => 'NY.GDP.PCAP.CD',
-  :gdp_ppp_pc => 'NY.GDP.PCAP.PP.CD'
+indicators =[
+  'NY.GDP.PCAP.CD',
+  'NY.GDP.PCAP.PP.CD'
 
-}
+]
 
-output = {}
+lookup = {}
+indicators.each do |i|
+  result = WorldBank::Indicator.find(i).fetch
+  lookup[i] = {
+    :name   => result.name,
+    :source => result.source.raw['value']
+  }
+end
+
+body = {}
 
 countries.all_codes.each do |c|
   puts "getting data for #{c} (#{countries.get_country(c)})"
-  output[c] = {}
-  indicators.each do |key, val|
+  body[c] = {}
+  indicators.each do |ind|
     begin
-      n = WorldBank::Data.country(c).indicator(val).dates('2005:2015').fetch
+      n = WorldBank::Data.country(c).indicator(ind).dates('2005:2015').fetch
       record = n.find {|i| i.value != nil}
       if (record == nil) then
         raise "Nil record"
       end
     rescue Exception => e
       if e.message == "Nil record"
-        puts "No data for this indicator (#{val})"
+        puts "No data for this indicator (#{ind})"
       else
         puts "No country for this code"
       end
       record = NilRecord
     end
-    output[c][val] = {
+    body[c][ind] = {
       :value      => record.value,
       :date       => record.date,
-      :statistic  => val,
-      :origin     => "World Bank"
+      :statistic  => lookup[ind][:name],
+      :origin     => lookup[ind][:source]
     }
   end
 end
 
 File.open("./json/worldbank.json", "w") do |f|
-  f.write(JSON.pretty_generate(output))
+  f.write(JSON.pretty_generate(body))
 end
