@@ -26,7 +26,7 @@ lookup = {}
 indicators.each do |i|
   result = WorldBank::Indicator.find(i).fetch
   lookup[i] = {
-    :name   => result.name,
+    :name   => result.name.gsub('.', '-'),
     :source => result.source.raw['value']
   }
 end
