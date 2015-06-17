@@ -26,7 +26,7 @@ lookup = {}
 indicators.each do |i|
   result = WorldBank::Indicator.find(i).fetch
   lookup[i] = {
-    :name   => result.name.gsub('.', '-'),
+    :name   => result.name,
     :source => result.source.raw['value']
   }
 end
@@ -51,7 +51,7 @@ countries.all_codes.each do |c|
       end
       record = NilRecord
     end
-    body[c][ind] = {
+    body[c][ind.gsub('.', '-')] = {
       :value      => record.value,
       :date       => record.date,
       :statistic  => lookup[ind][:name],
