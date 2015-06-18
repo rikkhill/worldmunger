@@ -17,9 +17,14 @@ countries = Countries.new
 
 # Get indicators of interest
 indicators =[
-  'NY.GDP.PCAP.CD',
-  'NY.GDP.PCAP.PP.CD'
-
+  'NY.GDP.PCAP.CD',       # GDP per capita (US$)
+  'NY.GDP.PCAP.PP.CD',    # GDP PPP Per capita (international $)
+  'NY.GDP.MKTP.CD',       # GDP (Current US$)
+  'SP.POP.TOTL',          # Population total
+  'SP.POP.GROW',          # Population growth
+  'SE.ADT.LITR.ZS',       # Adult literacy (total)
+  'SE.ADT.LITR.FE.ZS',    # Female adult literacy
+  'SE.ADT.LITR.MA.ZS'     # Male adult literacy
 ]
 
 lookup = {}
