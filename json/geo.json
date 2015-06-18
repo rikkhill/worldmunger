@@ -2,6 +2,8 @@
   "AW": {
     "name": "Aruba",
     "official": "Aruba",
+    "iso2": "AW",
+    "iso3": "ABW",
     "currency": [
       "AWG"
     ],
@@ -20,6 +22,8 @@
   "AF": {
     "name": "Afghanistan",
     "official": "Islamic Republic of Afghanistan",
+    "iso2": "AF",
+    "iso3": "AFG",
     "currency": [
       "AFN"
     ],
@@ -44,6 +48,8 @@
   "AO": {
     "name": "Angola",
     "official": "Republic of Angola",
+    "iso2": "AO",
+    "iso3": "AGO",
     "currency": [
       "AOA"
     ],
@@ -64,6 +70,8 @@
   "AI": {
     "name": "Anguilla",
     "official": "Anguilla",
+    "iso2": "AI",
+    "iso3": "AIA",
     "currency": [
       "XCD"
     ],
@@ -81,6 +89,8 @@
   "AX": {
     "name": "Åland Islands",
     "official": "Åland Islands",
+    "iso2": "AX",
+    "iso3": "ALA",
     "currency": [
       "EUR"
     ],
@@ -98,6 +108,8 @@
   "AL": {
     "name": "Albania",
     "official": "Republic of Albania",
+    "iso2": "AL",
+    "iso3": "ALB",
     "currency": [
       "ALL"
     ],
@@ -118,6 +130,8 @@
   "AD": {
     "name": "Andorra",
     "official": "Principality of Andorra",
+    "iso2": "AD",
+    "iso3": "AND",
     "currency": [
       "EUR"
     ],
@@ -136,6 +150,8 @@
   "AE": {
     "name": "United Arab Emirates",
     "official": "United Arab Emirates",
+    "iso2": "AE",
+    "iso3": "ARE",
     "currency": [
       "AED"
     ],
@@ -154,6 +170,8 @@
   "AR": {
     "name": "Argentina",
     "official": "Argentine Republic",
+    "iso2": "AR",
+    "iso3": "ARG",
     "currency": [
       "ARS"
     ],
@@ -176,6 +194,8 @@
   "AM": {
     "name": "Armenia",
     "official": "Republic of Armenia",
+    "iso2": "AM",
+    "iso3": "ARM",
     "currency": [
       "AMD"
     ],
@@ -197,6 +217,8 @@
   "AS": {
     "name": "American Samoa",
     "official": "American Samoa",
+    "iso2": "AS",
+    "iso3": "ASM",
     "currency": [
       "USD"
     ],
@@ -215,6 +237,8 @@
   "AQ": {
     "name": "Antarctica",
     "official": "Antarctica",
+    "iso2": "AQ",
+    "iso3": "ATA",
     "currency": [
 
     ],
@@ -232,6 +256,8 @@
   "TF": {
     "name": "French Southern and Antarctic Lands",
     "official": "Territory of the French Southern and Antarctic Lands",
+    "iso2": "TF",
+    "iso3": "ATF",
     "currency": [
       "EUR"
     ],
@@ -249,6 +275,8 @@
   "AG": {
     "name": "Antigua and Barbuda",
     "official": "Antigua and Barbuda",
+    "iso2": "AG",
+    "iso3": "ATG",
     "currency": [
       "XCD"
     ],
@@ -266,6 +294,8 @@
   "AU": {
     "name": "Australia",
     "official": "Commonwealth of Australia",
+    "iso2": "AU",
+    "iso3": "AUS",
     "currency": [
       "AUD"
     ],
@@ -283,6 +313,8 @@
   "AT": {
     "name": "Austria",
     "official": "Republic of Austria",
+    "iso2": "AT",
+    "iso3": "AUT",
     "currency": [
       "EUR"
     ],
@@ -307,6 +339,8 @@
   "AZ": {
     "name": "Azerbaijan",
     "official": "Republic of Azerbaijan",
+    "iso2": "AZ",
+    "iso3": "AZE",
     "currency": [
       "AZN"
     ],
@@ -329,6 +363,8 @@
   "BI": {
     "name": "Burundi",
     "official": "Republic of Burundi",
+    "iso2": "BI",
+    "iso3": "BDI",
     "currency": [
       "BIF"
     ],
@@ -349,6 +385,8 @@
   "BE": {
     "name": "Belgium",
     "official": "Kingdom of Belgium",
+    "iso2": "BE",
+    "iso3": "BEL",
     "currency": [
       "EUR"
     ],
@@ -371,6 +409,8 @@
   "BJ": {
     "name": "Benin",
     "official": "Republic of Benin",
+    "iso2": "BJ",
+    "iso3": "BEN",
     "currency": [
       "XOF"
     ],
@@ -391,6 +431,8 @@
   "BF": {
     "name": "Burkina Faso",
     "official": "Burkina Faso",
+    "iso2": "BF",
+    "iso3": "BFA",
     "currency": [
       "XOF"
     ],
@@ -413,6 +455,8 @@
   "BD": {
     "name": "Bangladesh",
     "official": "People's Republic of Bangladesh",
+    "iso2": "BD",
+    "iso3": "BGD",
     "currency": [
       "BDT"
     ],
@@ -431,6 +475,8 @@
   "BG": {
     "name": "Bulgaria",
     "official": "Republic of Bulgaria",
+    "iso2": "BG",
+    "iso3": "BGR",
     "currency": [
       "BGN"
     ],
@@ -452,6 +498,8 @@
   "BH": {
     "name": "Bahrain",
     "official": "Kingdom of Bahrain",
+    "iso2": "BH",
+    "iso3": "BHR",
     "currency": [
       "BHD"
     ],
@@ -469,6 +517,8 @@
   "BS": {
     "name": "Bahamas",
     "official": "Commonwealth of the Bahamas",
+    "iso2": "BS",
+    "iso3": "BHS",
     "currency": [
       "BSD"
     ],
@@ -486,6 +536,8 @@
   "BA": {
     "name": "Bosnia and Herzegovina",
     "official": "Bosnia and Herzegovina",
+    "iso2": "BA",
+    "iso3": "BIH",
     "currency": [
       "BAM"
     ],
@@ -507,6 +559,8 @@
   "BL": {
     "name": "Saint Barthélemy",
     "official": "Collectivity of Saint BarthélemySaint Barthélemy",
+    "iso2": "BL",
+    "iso3": "BLM",
     "currency": [
       "EUR"
     ],
@@ -524,6 +578,8 @@
   "BY": {
     "name": "Belarus",
     "official": "Republic of Belarus",
+    "iso2": "BY",
+    "iso3": "BLR",
     "currency": [
       "BYR"
     ],
@@ -546,6 +602,8 @@
   "BZ": {
     "name": "Belize",
     "official": "Belize",
+    "iso2": "BZ",
+    "iso3": "BLZ",
     "currency": [
       "BZD"
     ],
@@ -566,6 +624,8 @@
   "BM": {
     "name": "Bermuda",
     "official": "Bermuda",
+    "iso2": "BM",
+    "iso3": "BMU",
     "currency": [
       "BMD"
     ],
@@ -583,6 +643,8 @@
   "BO": {
     "name": "Bolivia",
     "official": "Plurinational State of Bolivia",
+    "iso2": "BO",
+    "iso3": "BOL",
     "currency": [
       "BOB",
       "BOV"
@@ -608,6 +670,8 @@
   "BR": {
     "name": "Brazil",
     "official": "Federative Republic of Brazil",
+    "iso2": "BR",
+    "iso3": "BRA",
     "currency": [
       "BRL"
     ],
@@ -634,6 +698,8 @@
   "BB": {
     "name": "Barbados",
     "official": "Barbados",
+    "iso2": "BB",
+    "iso3": "BRB",
     "currency": [
       "BBD"
     ],
@@ -651,6 +717,8 @@
   "BN": {
     "name": "Brunei",
     "official": "Nation of Brunei, Abode of Peace",
+    "iso2": "BN",
+    "iso3": "BRN",
     "currency": [
       "BND"
     ],
@@ -668,6 +736,8 @@
   "BT": {
     "name": "Bhutan",
     "official": "Kingdom of Bhutan",
+    "iso2": "BT",
+    "iso3": "BTN",
     "currency": [
       "BTN",
       "INR"
@@ -687,6 +757,8 @@
   "BV": {
     "name": "Bouvet Island",
     "official": "Bouvet Island",
+    "iso2": "BV",
+    "iso3": "BVT",
     "currency": [
       "NOK"
     ],
@@ -704,6 +776,8 @@
   "BW": {
     "name": "Botswana",
     "official": "Republic of Botswana",
+    "iso2": "BW",
+    "iso3": "BWA",
     "currency": [
       "BWP"
     ],
@@ -725,6 +799,8 @@
   "CF": {
     "name": "Central African Republic",
     "official": "Central African Republic",
+    "iso2": "CF",
+    "iso3": "CAF",
     "currency": [
       "XAF"
     ],
@@ -748,6 +824,8 @@
   "CA": {
     "name": "Canada",
     "official": "Canada",
+    "iso2": "CA",
+    "iso3": "CAN",
     "currency": [
       "CAD"
     ],
@@ -766,6 +844,8 @@
   "CC": {
     "name": "Cocos (Keeling) Islands",
     "official": "Territory of the Cocos (Keeling) Islands",
+    "iso2": "CC",
+    "iso3": "CCK",
     "currency": [
       "AUD"
     ],
@@ -783,6 +863,8 @@
   "CH": {
     "name": "Switzerland",
     "official": "Swiss Confederation",
+    "iso2": "CH",
+    "iso3": "CHE",
     "currency": [
       "CHE",
       "CHF",
@@ -809,6 +891,8 @@
   "CL": {
     "name": "Chile",
     "official": "Republic of Chile",
+    "iso2": "CL",
+    "iso3": "CHL",
     "currency": [
       "CLF",
       "CLP"
@@ -829,6 +913,8 @@
   "CN": {
     "name": "China",
     "official": "People's Republic of China",
+    "iso2": "CN",
+    "iso3": "CHN",
     "currency": [
       "CNY"
     ],
@@ -860,6 +946,8 @@
   "CI": {
     "name": "Ivory Coast",
     "official": "Republic of Côte d'Ivoire",
+    "iso2": "CI",
+    "iso3": "CIV",
     "currency": [
       "XOF"
     ],
@@ -881,6 +969,8 @@
   "CM": {
     "name": "Cameroon",
     "official": "Republic of Cameroon",
+    "iso2": "CM",
+    "iso3": "CMR",
     "currency": [
       "XAF"
     ],
@@ -904,6 +994,8 @@
   "CD": {
     "name": "DR Congo",
     "official": "Democratic Republic of the Congo",
+    "iso2": "CD",
+    "iso3": "COD",
     "currency": [
       "CDF"
     ],
@@ -933,6 +1025,8 @@
   "CG": {
     "name": "Republic of the Congo",
     "official": "Republic of the Congo",
+    "iso2": "CG",
+    "iso3": "COG",
     "currency": [
       "XAF"
     ],
@@ -956,6 +1050,8 @@
   "CK": {
     "name": "Cook Islands",
     "official": "Cook Islands",
+    "iso2": "CK",
+    "iso3": "COK",
     "currency": [
       "NZD"
     ],
@@ -974,6 +1070,8 @@
   "CO": {
     "name": "Colombia",
     "official": "Republic of Colombia",
+    "iso2": "CO",
+    "iso3": "COL",
     "currency": [
       "COP"
     ],
@@ -995,6 +1093,8 @@
   "KM": {
     "name": "Comoros",
     "official": "Union of the Comoros",
+    "iso2": "KM",
+    "iso3": "COM",
     "currency": [
       "KMF"
     ],
@@ -1014,6 +1114,8 @@
   "CV": {
     "name": "Cape Verde",
     "official": "Republic of Cabo Verde",
+    "iso2": "CV",
+    "iso3": "CPV",
     "currency": [
       "CVE"
     ],
@@ -1031,6 +1133,8 @@
   "CR": {
     "name": "Costa Rica",
     "official": "Republic of Costa Rica",
+    "iso2": "CR",
+    "iso3": "CRI",
     "currency": [
       "CRC"
     ],
@@ -1049,6 +1153,8 @@
   "CU": {
     "name": "Cuba",
     "official": "Republic of Cuba",
+    "iso2": "CU",
+    "iso3": "CUB",
     "currency": [
       "CUC",
       "CUP"
@@ -1067,6 +1173,8 @@
   "CW": {
     "name": "Curaçao",
     "official": "Country of Curaçao",
+    "iso2": "CW",
+    "iso3": "CUW",
     "currency": [
       "ANG"
     ],
@@ -1086,6 +1194,8 @@
   "CX": {
     "name": "Christmas Island",
     "official": "Territory of Christmas Island",
+    "iso2": "CX",
+    "iso3": "CXR",
     "currency": [
       "AUD"
     ],
@@ -1103,6 +1213,8 @@
   "KY": {
     "name": "Cayman Islands",
     "official": "Cayman Islands",
+    "iso2": "KY",
+    "iso3": "CYM",
     "currency": [
       "KYD"
     ],
@@ -1120,6 +1232,8 @@
   "CY": {
     "name": "Cyprus",
     "official": "Republic of Cyprus",
+    "iso2": "CY",
+    "iso3": "CYP",
     "currency": [
       "EUR"
     ],
@@ -1138,6 +1252,8 @@
   "CZ": {
     "name": "Czech Republic",
     "official": "Czech Republic",
+    "iso2": "CZ",
+    "iso3": "CZE",
     "currency": [
       "CZK"
     ],
@@ -1159,6 +1275,8 @@
   "DE": {
     "name": "Germany",
     "official": "Federal Republic of Germany",
+    "iso2": "DE",
+    "iso3": "DEU",
     "currency": [
       "EUR"
     ],
@@ -1184,6 +1302,8 @@
   "DJ": {
     "name": "Djibouti",
     "official": "Republic of Djibouti",
+    "iso2": "DJ",
+    "iso3": "DJI",
     "currency": [
       "DJF"
     ],
@@ -1204,6 +1324,8 @@
   "DM": {
     "name": "Dominica",
     "official": "Commonwealth of Dominica",
+    "iso2": "DM",
+    "iso3": "DMA",
     "currency": [
       "XCD"
     ],
@@ -1221,6 +1343,8 @@
   "DK": {
     "name": "Denmark",
     "official": "Kingdom of Denmark",
+    "iso2": "DK",
+    "iso3": "DNK",
     "currency": [
       "DKK"
     ],
@@ -1238,6 +1362,8 @@
   "DO": {
     "name": "Dominican Republic",
     "official": "Dominican Republic",
+    "iso2": "DO",
+    "iso3": "DOM",
     "currency": [
       "DOP"
     ],
@@ -1255,6 +1381,8 @@
   "DZ": {
     "name": "Algeria",
     "official": "People's Democratic Republic of Algeria",
+    "iso2": "DZ",
+    "iso3": "DZA",
     "currency": [
       "DZD"
     ],
@@ -1278,6 +1406,8 @@
   "EC": {
     "name": "Ecuador",
     "official": "Republic of Ecuador",
+    "iso2": "EC",
+    "iso3": "ECU",
     "currency": [
       "USD"
     ],
@@ -1296,6 +1426,8 @@
   "EG": {
     "name": "Egypt",
     "official": "Arab Republic of Egypt",
+    "iso2": "EG",
+    "iso3": "EGY",
     "currency": [
       "EGP"
     ],
@@ -1315,6 +1447,8 @@
   "ER": {
     "name": "Eritrea",
     "official": "State of Eritrea",
+    "iso2": "ER",
+    "iso3": "ERI",
     "currency": [
       "ERN"
     ],
@@ -1336,6 +1470,8 @@
   "EH": {
     "name": "Western Sahara",
     "official": "Sahrawi Arab Democratic Republic",
+    "iso2": "EH",
+    "iso3": "ESH",
     "currency": [
       "MAD",
       "DZD",
@@ -1359,6 +1495,8 @@
   "ES": {
     "name": "Spain",
     "official": "Kingdom of Spain",
+    "iso2": "ES",
+    "iso3": "ESP",
     "currency": [
       "EUR"
     ],
@@ -1384,6 +1522,8 @@
   "EE": {
     "name": "Estonia",
     "official": "Republic of Estonia",
+    "iso2": "EE",
+    "iso3": "EST",
     "currency": [
       "EUR"
     ],
@@ -1402,6 +1542,8 @@
   "ET": {
     "name": "Ethiopia",
     "official": "Federal Democratic Republic of Ethiopia",
+    "iso2": "ET",
+    "iso3": "ETH",
     "currency": [
       "ETB"
     ],
@@ -1424,6 +1566,8 @@
   "FI": {
     "name": "Finland",
     "official": "Republic of Finland",
+    "iso2": "FI",
+    "iso3": "FIN",
     "currency": [
       "EUR"
     ],
@@ -1444,6 +1588,8 @@
   "FJ": {
     "name": "Fiji",
     "official": "Republic of Fiji",
+    "iso2": "FJ",
+    "iso3": "FJI",
     "currency": [
       "FJD"
     ],
@@ -1463,6 +1609,8 @@
   "FK": {
     "name": "Falkland Islands",
     "official": "Falkland Islands",
+    "iso2": "FK",
+    "iso3": "FLK",
     "currency": [
       "FKP"
     ],
@@ -1480,6 +1628,8 @@
   "FR": {
     "name": "France",
     "official": "French Republic",
+    "iso2": "FR",
+    "iso3": "FRA",
     "currency": [
       "EUR"
     ],
@@ -1504,6 +1654,8 @@
   "FO": {
     "name": "Faroe Islands",
     "official": "Faroe Islands",
+    "iso2": "FO",
+    "iso3": "FRO",
     "currency": [
       "DKK"
     ],
@@ -1522,6 +1674,8 @@
   "FM": {
     "name": "Micronesia",
     "official": "Federated States of Micronesia",
+    "iso2": "FM",
+    "iso3": "FSM",
     "currency": [
       "USD"
     ],
@@ -1539,6 +1693,8 @@
   "GA": {
     "name": "Gabon",
     "official": "Gabonese Republic",
+    "iso2": "GA",
+    "iso3": "GAB",
     "currency": [
       "XAF"
     ],
@@ -1558,6 +1714,8 @@
   "GB": {
     "name": "United Kingdom",
     "official": "United Kingdom of Great Britain and Northern Ireland",
+    "iso2": "GB",
+    "iso3": "GBR",
     "currency": [
       "GBP"
     ],
@@ -1575,6 +1733,8 @@
   "GE": {
     "name": "Georgia",
     "official": "Georgia",
+    "iso2": "GE",
+    "iso3": "GEO",
     "currency": [
       "GEL"
     ],
@@ -1595,6 +1755,8 @@
   "GG": {
     "name": "Guernsey",
     "official": "Bailiwick of Guernsey",
+    "iso2": "GG",
+    "iso3": "GGY",
     "currency": [
       "GBP"
     ],
@@ -1614,6 +1776,8 @@
   "GH": {
     "name": "Ghana",
     "official": "Republic of Ghana",
+    "iso2": "GH",
+    "iso3": "GHA",
     "currency": [
       "GHS"
     ],
@@ -1633,6 +1797,8 @@
   "GI": {
     "name": "Gibraltar",
     "official": "Gibraltar",
+    "iso2": "GI",
+    "iso3": "GIB",
     "currency": [
       "GIP"
     ],
@@ -1650,6 +1816,8 @@
   "GN": {
     "name": "Guinea",
     "official": "Republic of Guinea",
+    "iso2": "GN",
+    "iso3": "GIN",
     "currency": [
       "GNF"
     ],
@@ -1672,6 +1840,8 @@
   "GP": {
     "name": "Guadeloupe",
     "official": "Guadeloupe",
+    "iso2": "GP",
+    "iso3": "GLP",
     "currency": [
       "EUR"
     ],
@@ -1689,6 +1859,8 @@
   "GM": {
     "name": "Gambia",
     "official": "Republic of the Gambia",
+    "iso2": "GM",
+    "iso3": "GMB",
     "currency": [
       "GMD"
     ],
@@ -1706,6 +1878,8 @@
   "GW": {
     "name": "Guinea-Bissau",
     "official": "Republic of Guinea-Bissau",
+    "iso2": "GW",
+    "iso3": "GNB",
     "currency": [
       "XOF"
     ],
@@ -1724,6 +1898,8 @@
   "GQ": {
     "name": "Equatorial Guinea",
     "official": "Republic of Equatorial Guinea",
+    "iso2": "GQ",
+    "iso3": "GNQ",
     "currency": [
       "XAF"
     ],
@@ -1744,6 +1920,8 @@
   "GR": {
     "name": "Greece",
     "official": "Hellenic Republic",
+    "iso2": "GR",
+    "iso3": "GRC",
     "currency": [
       "EUR"
     ],
@@ -1764,6 +1942,8 @@
   "GD": {
     "name": "Grenada",
     "official": "Grenada",
+    "iso2": "GD",
+    "iso3": "GRD",
     "currency": [
       "XCD"
     ],
@@ -1781,6 +1961,8 @@
   "GL": {
     "name": "Greenland",
     "official": "Greenland",
+    "iso2": "GL",
+    "iso3": "GRL",
     "currency": [
       "DKK"
     ],
@@ -1798,6 +1980,8 @@
   "GT": {
     "name": "Guatemala",
     "official": "Republic of Guatemala",
+    "iso2": "GT",
+    "iso3": "GTM",
     "currency": [
       "GTQ"
     ],
@@ -1818,6 +2002,8 @@
   "GF": {
     "name": "French Guiana",
     "official": "Guiana",
+    "iso2": "GF",
+    "iso3": "GUF",
     "currency": [
       "EUR"
     ],
@@ -1836,6 +2022,8 @@
   "GU": {
     "name": "Guam",
     "official": "Guam",
+    "iso2": "GU",
+    "iso3": "GUM",
     "currency": [
       "USD"
     ],
@@ -1855,6 +2043,8 @@
   "GY": {
     "name": "Guyana",
     "official": "Co-operative Republic of Guyana",
+    "iso2": "GY",
+    "iso3": "GUY",
     "currency": [
       "GYD"
     ],
@@ -1874,6 +2064,8 @@
   "HK": {
     "name": "Hong Kong",
     "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+    "iso2": "HK",
+    "iso3": "HKG",
     "currency": [
       "HKD"
     ],
@@ -1892,6 +2084,8 @@
   "HM": {
     "name": "Heard Island and McDonald Islands",
     "official": "Heard Island and McDonald Islands",
+    "iso2": "HM",
+    "iso3": "HMD",
     "currency": [
       "AUD"
     ],
@@ -1909,6 +2103,8 @@
   "HN": {
     "name": "Honduras",
     "official": "Republic of Honduras",
+    "iso2": "HN",
+    "iso3": "HND",
     "currency": [
       "HNL"
     ],
@@ -1928,6 +2124,8 @@
   "HR": {
     "name": "Croatia",
     "official": "Republic of Croatia",
+    "iso2": "HR",
+    "iso3": "HRV",
     "currency": [
       "HRK"
     ],
@@ -1949,6 +2147,8 @@
   "HT": {
     "name": "Haiti",
     "official": "Republic of Haiti",
+    "iso2": "HT",
+    "iso3": "HTI",
     "currency": [
       "HTG",
       "USD"
@@ -1968,6 +2168,8 @@
   "HU": {
     "name": "Hungary",
     "official": "Hungary",
+    "iso2": "HU",
+    "iso3": "HUN",
     "currency": [
       "HUF"
     ],
@@ -1991,6 +2193,8 @@
   "ID": {
     "name": "Indonesia",
     "official": "Republic of Indonesia",
+    "iso2": "ID",
+    "iso3": "IDN",
     "currency": [
       "IDR"
     ],
@@ -2010,6 +2214,8 @@
   "IM": {
     "name": "Isle of Man",
     "official": "Isle of Man",
+    "iso2": "IM",
+    "iso3": "IMN",
     "currency": [
       "GBP"
     ],
@@ -2028,6 +2234,8 @@
   "IN": {
     "name": "India",
     "official": "Republic of India",
+    "iso2": "IN",
+    "iso3": "IND",
     "currency": [
       "INR"
     ],
@@ -2054,6 +2262,8 @@
   "IO": {
     "name": "British Indian Ocean Territory",
     "official": "British Indian Ocean Territory",
+    "iso2": "IO",
+    "iso3": "IOT",
     "currency": [
       "USD"
     ],
@@ -2071,6 +2281,8 @@
   "IE": {
     "name": "Ireland",
     "official": "Republic of Ireland",
+    "iso2": "IE",
+    "iso3": "IRL",
     "currency": [
       "EUR"
     ],
@@ -2089,6 +2301,8 @@
   "IR": {
     "name": "Iran",
     "official": "Islamic Republic of Iran",
+    "iso2": "IR",
+    "iso3": "IRN",
     "currency": [
       "IRR"
     ],
@@ -2112,6 +2326,8 @@
   "IQ": {
     "name": "Iraq",
     "official": "Republic of Iraq",
+    "iso2": "IQ",
+    "iso3": "IRQ",
     "currency": [
       "IQD"
     ],
@@ -2136,6 +2352,8 @@
   "IS": {
     "name": "Iceland",
     "official": "Iceland",
+    "iso2": "IS",
+    "iso3": "ISL",
     "currency": [
       "ISK"
     ],
@@ -2153,6 +2371,8 @@
   "IL": {
     "name": "Israel",
     "official": "State of Israel",
+    "iso2": "IL",
+    "iso3": "ISR",
     "currency": [
       "ILS"
     ],
@@ -2174,6 +2394,8 @@
   "IT": {
     "name": "Italy",
     "official": "Italian Republic",
+    "iso2": "IT",
+    "iso3": "ITA",
     "currency": [
       "EUR"
     ],
@@ -2198,6 +2420,8 @@
   "JM": {
     "name": "Jamaica",
     "official": "Jamaica",
+    "iso2": "JM",
+    "iso3": "JAM",
     "currency": [
       "JMD"
     ],
@@ -2216,6 +2440,8 @@
   "JE": {
     "name": "Jersey",
     "official": "Bailiwick of Jersey",
+    "iso2": "JE",
+    "iso3": "JEY",
     "currency": [
       "GBP"
     ],
@@ -2235,6 +2461,8 @@
   "JO": {
     "name": "Jordan",
     "official": "Hashemite Kingdom of Jordan",
+    "iso2": "JO",
+    "iso3": "JOR",
     "currency": [
       "JOD"
     ],
@@ -2255,6 +2483,8 @@
   "JP": {
     "name": "Japan",
     "official": "Japan",
+    "iso2": "JP",
+    "iso3": "JPN",
     "currency": [
       "JPY"
     ],
@@ -2272,6 +2502,8 @@
   "KZ": {
     "name": "Kazakhstan",
     "official": "Republic of Kazakhstan",
+    "iso2": "KZ",
+    "iso3": "KAZ",
     "currency": [
       "KZT"
     ],
@@ -2294,6 +2526,8 @@
   "KE": {
     "name": "Kenya",
     "official": "Republic of Kenya",
+    "iso2": "KE",
+    "iso3": "KEN",
     "currency": [
       "KES"
     ],
@@ -2316,6 +2550,8 @@
   "KG": {
     "name": "Kyrgyzstan",
     "official": "Kyrgyz Republic",
+    "iso2": "KG",
+    "iso3": "KGZ",
     "currency": [
       "KGS"
     ],
@@ -2337,6 +2573,8 @@
   "KH": {
     "name": "Cambodia",
     "official": "Kingdom of Cambodia",
+    "iso2": "KH",
+    "iso3": "KHM",
     "currency": [
       "KHR"
     ],
@@ -2356,6 +2594,8 @@
   "KI": {
     "name": "Kiribati",
     "official": "Independent and Sovereign Republic of Kiribati",
+    "iso2": "KI",
+    "iso3": "KIR",
     "currency": [
       "AUD"
     ],
@@ -2374,6 +2614,8 @@
   "KN": {
     "name": "Saint Kitts and Nevis",
     "official": "Federation of Saint Christopher and Nevisa",
+    "iso2": "KN",
+    "iso3": "KNA",
     "currency": [
       "XCD"
     ],
@@ -2391,6 +2633,8 @@
   "KR": {
     "name": "South Korea",
     "official": "Republic of Korea",
+    "iso2": "KR",
+    "iso3": "KOR",
     "currency": [
       "KRW"
     ],
@@ -2408,6 +2652,8 @@
   "XK": {
     "name": "Kosovo",
     "official": "Republic of Kosovo",
+    "iso2": "XK",
+    "iso3": "KOS",
     "currency": [
       "EUR"
     ],
@@ -2429,6 +2675,8 @@
   "KW": {
     "name": "Kuwait",
     "official": "State of Kuwait",
+    "iso2": "KW",
+    "iso3": "KWT",
     "currency": [
       "KWD"
     ],
@@ -2447,6 +2695,8 @@
   "LA": {
     "name": "Laos",
     "official": "Lao People's Democratic Republic",
+    "iso2": "LA",
+    "iso3": "LAO",
     "currency": [
       "LAK"
     ],
@@ -2468,6 +2718,8 @@
   "LB": {
     "name": "Lebanon",
     "official": "Lebanese Republic",
+    "iso2": "LB",
+    "iso3": "LBN",
     "currency": [
       "LBP"
     ],
@@ -2487,6 +2739,8 @@
   "LR": {
     "name": "Liberia",
     "official": "Republic of Liberia",
+    "iso2": "LR",
+    "iso3": "LBR",
     "currency": [
       "LRD"
     ],
@@ -2506,6 +2760,8 @@
   "LY": {
     "name": "Libya",
     "official": "State of Libya",
+    "iso2": "LY",
+    "iso3": "LBY",
     "currency": [
       "LYD"
     ],
@@ -2528,6 +2784,8 @@
   "LC": {
     "name": "Saint Lucia",
     "official": "Saint Lucia",
+    "iso2": "LC",
+    "iso3": "LCA",
     "currency": [
       "XCD"
     ],
@@ -2545,6 +2803,8 @@
   "LI": {
     "name": "Liechtenstein",
     "official": "Principality of Liechtenstein",
+    "iso2": "LI",
+    "iso3": "LIE",
     "currency": [
       "CHF"
     ],
@@ -2563,6 +2823,8 @@
   "LK": {
     "name": "Sri Lanka",
     "official": "Democratic Socialist Republic of Sri Lanka",
+    "iso2": "LK",
+    "iso3": "LKA",
     "currency": [
       "LKR"
     ],
@@ -2581,6 +2843,8 @@
   "LS": {
     "name": "Lesotho",
     "official": "Kingdom of Lesotho",
+    "iso2": "LS",
+    "iso3": "LSO",
     "currency": [
       "LSL",
       "ZAR"
@@ -2600,6 +2864,8 @@
   "LT": {
     "name": "Lithuania",
     "official": "Republic of Lithuania",
+    "iso2": "LT",
+    "iso3": "LTU",
     "currency": [
       "EUR"
     ],
@@ -2620,6 +2886,8 @@
   "LU": {
     "name": "Luxembourg",
     "official": "Grand Duchy of Luxembourg",
+    "iso2": "LU",
+    "iso3": "LUX",
     "currency": [
       "EUR"
     ],
@@ -2641,6 +2909,8 @@
   "LV": {
     "name": "Latvia",
     "official": "Republic of Latvia",
+    "iso2": "LV",
+    "iso3": "LVA",
     "currency": [
       "EUR"
     ],
@@ -2661,6 +2931,8 @@
   "MO": {
     "name": "Macau",
     "official": "Macao Special Administrative Region of the People's Republic of China",
+    "iso2": "MO",
+    "iso3": "MAC",
     "currency": [
       "MOP"
     ],
@@ -2679,6 +2951,8 @@
   "MF": {
     "name": "Saint Martin",
     "official": "Saint Martin",
+    "iso2": "MF",
+    "iso3": "MAF",
     "currency": [
       "EUR"
     ],
@@ -2696,6 +2970,8 @@
   "MA": {
     "name": "Morocco",
     "official": "Kingdom of Morocco",
+    "iso2": "MA",
+    "iso3": "MAR",
     "currency": [
       "MAD"
     ],
@@ -2716,6 +2992,8 @@
   "MC": {
     "name": "Monaco",
     "official": "Principality of Monaco",
+    "iso2": "MC",
+    "iso3": "MCO",
     "currency": [
       "EUR"
     ],
@@ -2733,6 +3011,8 @@
   "MD": {
     "name": "Moldova",
     "official": "Republic of Moldova",
+    "iso2": "MD",
+    "iso3": "MDA",
     "currency": [
       "MDL"
     ],
@@ -2751,6 +3031,8 @@
   "MG": {
     "name": "Madagascar",
     "official": "Republic of Madagascar",
+    "iso2": "MG",
+    "iso3": "MDG",
     "currency": [
       "MGA"
     ],
@@ -2769,6 +3051,8 @@
   "MV": {
     "name": "Maldives",
     "official": "Republic of the Maldives",
+    "iso2": "MV",
+    "iso3": "MDV",
     "currency": [
       "MVR"
     ],
@@ -2786,6 +3070,8 @@
   "MX": {
     "name": "Mexico",
     "official": "United Mexican States",
+    "iso2": "MX",
+    "iso3": "MEX",
     "currency": [
       "MXN"
     ],
@@ -2805,6 +3091,8 @@
   "MH": {
     "name": "Marshall Islands",
     "official": "Republic of the Marshall Islands",
+    "iso2": "MH",
+    "iso3": "MHL",
     "currency": [
       "USD"
     ],
@@ -2823,6 +3111,8 @@
   "MK": {
     "name": "Macedonia",
     "official": "Republic of Macedonia",
+    "iso2": "MK",
+    "iso3": "MKD",
     "currency": [
       "MKD"
     ],
@@ -2844,6 +3134,8 @@
   "ML": {
     "name": "Mali",
     "official": "Republic of Mali",
+    "iso2": "ML",
+    "iso3": "MLI",
     "currency": [
       "XOF"
     ],
@@ -2867,6 +3159,8 @@
   "MT": {
     "name": "Malta",
     "official": "Republic of Malta",
+    "iso2": "MT",
+    "iso3": "MLT",
     "currency": [
       "EUR"
     ],
@@ -2885,6 +3179,8 @@
   "MM": {
     "name": "Myanmar",
     "official": "Republic of the Union of Myanmar",
+    "iso2": "MM",
+    "iso3": "MMR",
     "currency": [
       "MMK"
     ],
@@ -2906,6 +3202,8 @@
   "ME": {
     "name": "Montenegro",
     "official": "Montenegro",
+    "iso2": "ME",
+    "iso3": "MNE",
     "currency": [
       "EUR"
     ],
@@ -2927,6 +3225,8 @@
   "MN": {
     "name": "Mongolia",
     "official": "Mongolia",
+    "iso2": "MN",
+    "iso3": "MNG",
     "currency": [
       "MNT"
     ],
@@ -2945,6 +3245,8 @@
   "MP": {
     "name": "Northern Mariana Islands",
     "official": "Commonwealth of the Northern Mariana Islands",
+    "iso2": "MP",
+    "iso3": "MNP",
     "currency": [
       "USD"
     ],
@@ -2964,6 +3266,8 @@
   "MZ": {
     "name": "Mozambique",
     "official": "Republic of Mozambique",
+    "iso2": "MZ",
+    "iso3": "MOZ",
     "currency": [
       "MZN"
     ],
@@ -2986,6 +3290,8 @@
   "MR": {
     "name": "Mauritania",
     "official": "Islamic Republic of Mauritania",
+    "iso2": "MR",
+    "iso3": "MRT",
     "currency": [
       "MRO"
     ],
@@ -3006,6 +3312,8 @@
   "MS": {
     "name": "Montserrat",
     "official": "Montserrat",
+    "iso2": "MS",
+    "iso3": "MSR",
     "currency": [
       "XCD"
     ],
@@ -3023,6 +3331,8 @@
   "MQ": {
     "name": "Martinique",
     "official": "Martinique",
+    "iso2": "MQ",
+    "iso3": "MTQ",
     "currency": [
       "EUR"
     ],
@@ -3040,6 +3350,8 @@
   "MU": {
     "name": "Mauritius",
     "official": "Republic of Mauritius",
+    "iso2": "MU",
+    "iso3": "MUS",
     "currency": [
       "MUR"
     ],
@@ -3059,6 +3371,8 @@
   "MW": {
     "name": "Malawi",
     "official": "Republic of Malawi",
+    "iso2": "MW",
+    "iso3": "MWI",
     "currency": [
       "MWK"
     ],
@@ -3079,6 +3393,8 @@
   "MY": {
     "name": "Malaysia",
     "official": "Malaysia",
+    "iso2": "MY",
+    "iso3": "MYS",
     "currency": [
       "MYR"
     ],
@@ -3099,6 +3415,8 @@
   "YT": {
     "name": "Mayotte",
     "official": "Department of Mayotte",
+    "iso2": "YT",
+    "iso3": "MYT",
     "currency": [
       "EUR"
     ],
@@ -3116,6 +3434,8 @@
   "NA": {
     "name": "Namibia",
     "official": "Republic of Namibia",
+    "iso2": "NA",
+    "iso3": "NAM",
     "currency": [
       "NAD",
       "ZAR"
@@ -3145,6 +3465,8 @@
   "NC": {
     "name": "New Caledonia",
     "official": "New Caledonia",
+    "iso2": "NC",
+    "iso3": "NCL",
     "currency": [
       "XPF"
     ],
@@ -3162,6 +3484,8 @@
   "NE": {
     "name": "Niger",
     "official": "Republic of Niger",
+    "iso2": "NE",
+    "iso3": "NER",
     "currency": [
       "XOF"
     ],
@@ -3185,6 +3509,8 @@
   "NF": {
     "name": "Norfolk Island",
     "official": "Territory of Norfolk Island",
+    "iso2": "NF",
+    "iso3": "NFK",
     "currency": [
       "AUD"
     ],
@@ -3203,6 +3529,8 @@
   "NG": {
     "name": "Nigeria",
     "official": "Federal Republic of Nigeria",
+    "iso2": "NG",
+    "iso3": "NGA",
     "currency": [
       "NGN"
     ],
@@ -3223,6 +3551,8 @@
   "NI": {
     "name": "Nicaragua",
     "official": "Republic of Nicaragua",
+    "iso2": "NI",
+    "iso3": "NIC",
     "currency": [
       "NIO"
     ],
@@ -3241,6 +3571,8 @@
   "NU": {
     "name": "Niue",
     "official": "Niue",
+    "iso2": "NU",
+    "iso3": "NIU",
     "currency": [
       "NZD"
     ],
@@ -3259,6 +3591,8 @@
   "NL": {
     "name": "Netherlands",
     "official": "Netherlands",
+    "iso2": "NL",
+    "iso3": "NLD",
     "currency": [
       "EUR"
     ],
@@ -3277,6 +3611,8 @@
   "NO": {
     "name": "Norway",
     "official": "Kingdom of Norway",
+    "iso2": "NO",
+    "iso3": "NOR",
     "currency": [
       "NOK"
     ],
@@ -3298,6 +3634,8 @@
   "NP": {
     "name": "Nepal",
     "official": "Federal Democratic Republic of Nepal",
+    "iso2": "NP",
+    "iso3": "NPL",
     "currency": [
       "NPR"
     ],
@@ -3316,6 +3654,8 @@
   "NR": {
     "name": "Nauru",
     "official": "Republic of Nauru",
+    "iso2": "NR",
+    "iso3": "NRU",
     "currency": [
       "AUD"
     ],
@@ -3334,6 +3674,8 @@
   "NZ": {
     "name": "New Zealand",
     "official": "New Zealand",
+    "iso2": "NZ",
+    "iso3": "NZL",
     "currency": [
       "NZD"
     ],
@@ -3353,6 +3695,8 @@
   "OM": {
     "name": "Oman",
     "official": "Sultanate of Oman",
+    "iso2": "OM",
+    "iso3": "OMN",
     "currency": [
       "OMR"
     ],
@@ -3372,6 +3716,8 @@
   "PK": {
     "name": "Pakistan",
     "official": "Islamic Republic of Pakistan",
+    "iso2": "PK",
+    "iso3": "PAK",
     "currency": [
       "PKR"
     ],
@@ -3393,6 +3739,8 @@
   "PA": {
     "name": "Panama",
     "official": "Republic of Panama",
+    "iso2": "PA",
+    "iso3": "PAN",
     "currency": [
       "PAB",
       "USD"
@@ -3412,6 +3760,8 @@
   "PN": {
     "name": "Pitcairn Islands",
     "official": "Pitcairn Group of Islands",
+    "iso2": "PN",
+    "iso3": "PCN",
     "currency": [
       "NZD"
     ],
@@ -3429,6 +3779,8 @@
   "PE": {
     "name": "Peru",
     "official": "Republic of Peru",
+    "iso2": "PE",
+    "iso3": "PER",
     "currency": [
       "PEN"
     ],
@@ -3452,6 +3804,8 @@
   "PH": {
     "name": "Philippines",
     "official": "Republic of the Philippines",
+    "iso2": "PH",
+    "iso3": "PHL",
     "currency": [
       "PHP"
     ],
@@ -3470,6 +3824,8 @@
   "PW": {
     "name": "Palau",
     "official": "Republic of Palau",
+    "iso2": "PW",
+    "iso3": "PLW",
     "currency": [
       "USD"
     ],
@@ -3488,6 +3844,8 @@
   "PG": {
     "name": "Papua New Guinea",
     "official": "Independent State of Papua New Guinea",
+    "iso2": "PG",
+    "iso3": "PNG",
     "currency": [
       "PGK"
     ],
@@ -3507,6 +3865,8 @@
   "PL": {
     "name": "Poland",
     "official": "Republic of Poland",
+    "iso2": "PL",
+    "iso3": "POL",
     "currency": [
       "PLN"
     ],
@@ -3530,6 +3890,8 @@
   "PR": {
     "name": "Puerto Rico",
     "official": "Commonwealth of Puerto Rico",
+    "iso2": "PR",
+    "iso3": "PRI",
     "currency": [
       "USD"
     ],
@@ -3548,6 +3910,8 @@
   "KP": {
     "name": "North Korea",
     "official": "Democratic People's Republic of Korea",
+    "iso2": "KP",
+    "iso3": "PRK",
     "currency": [
       "KPW"
     ],
@@ -3567,6 +3931,8 @@
   "PT": {
     "name": "Portugal",
     "official": "Portuguese Republic",
+    "iso2": "PT",
+    "iso3": "PRT",
     "currency": [
       "EUR"
     ],
@@ -3584,6 +3950,8 @@
   "PY": {
     "name": "Paraguay",
     "official": "Republic of Paraguay",
+    "iso2": "PY",
+    "iso3": "PRY",
     "currency": [
       "PYG"
     ],
@@ -3604,6 +3972,8 @@
   "PS": {
     "name": "Palestine",
     "official": "State of Palestine",
+    "iso2": "PS",
+    "iso3": "PSE",
     "currency": [
       "ILS"
     ],
@@ -3623,6 +3993,8 @@
   "PF": {
     "name": "French Polynesia",
     "official": "French Polynesia",
+    "iso2": "PF",
+    "iso3": "PYF",
     "currency": [
       "XPF"
     ],
@@ -3640,6 +4012,8 @@
   "QA": {
     "name": "Qatar",
     "official": "State of Qatar",
+    "iso2": "QA",
+    "iso3": "QAT",
     "currency": [
       "QAR"
     ],
@@ -3657,6 +4031,8 @@
   "RE": {
     "name": "Réunion",
     "official": "Réunion Island",
+    "iso2": "RE",
+    "iso3": "REU",
     "currency": [
       "EUR"
     ],
@@ -3674,6 +4050,8 @@
   "RO": {
     "name": "Romania",
     "official": "Romania",
+    "iso2": "RO",
+    "iso3": "ROU",
     "currency": [
       "RON"
     ],
@@ -3695,6 +4073,8 @@
   "RU": {
     "name": "Russia",
     "official": "Russian Federation",
+    "iso2": "RU",
+    "iso3": "RUS",
     "currency": [
       "RUB"
     ],
@@ -3725,6 +4105,8 @@
   "RW": {
     "name": "Rwanda",
     "official": "Republic of Rwanda",
+    "iso2": "RW",
+    "iso3": "RWA",
     "currency": [
       "RWF"
     ],
@@ -3747,6 +4129,8 @@
   "SA": {
     "name": "Saudi Arabia",
     "official": "Kingdom of Saudi Arabia",
+    "iso2": "SA",
+    "iso3": "SAU",
     "currency": [
       "SAR"
     ],
@@ -3770,6 +4154,8 @@
   "SD": {
     "name": "Sudan",
     "official": "Republic of the Sudan",
+    "iso2": "SD",
+    "iso3": "SDN",
     "currency": [
       "SDG"
     ],
@@ -3794,6 +4180,8 @@
   "SN": {
     "name": "Senegal",
     "official": "Republic of Senegal",
+    "iso2": "SN",
+    "iso3": "SEN",
     "currency": [
       "XOF"
     ],
@@ -3815,6 +4203,8 @@
   "SG": {
     "name": "Singapore",
     "official": "Republic of Singapore",
+    "iso2": "SG",
+    "iso3": "SGP",
     "currency": [
       "SGD"
     ],
@@ -3835,6 +4225,8 @@
   "GS": {
     "name": "South Georgia",
     "official": "South Georgia and the South Sandwich Islands",
+    "iso2": "GS",
+    "iso3": "SGS",
     "currency": [
       "GBP"
     ],
@@ -3852,6 +4244,8 @@
   "SJ": {
     "name": "Svalbard and Jan Mayen",
     "official": "Svalbard og Jan Mayen",
+    "iso2": "SJ",
+    "iso3": "SJM",
     "currency": [
       "NOK"
     ],
@@ -3869,6 +4263,8 @@
   "SB": {
     "name": "Solomon Islands",
     "official": "Solomon Islands",
+    "iso2": "SB",
+    "iso3": "SLB",
     "currency": [
       "SDB"
     ],
@@ -3886,6 +4282,8 @@
   "SL": {
     "name": "Sierra Leone",
     "official": "Republic of Sierra Leone",
+    "iso2": "SL",
+    "iso3": "SLE",
     "currency": [
       "SLL"
     ],
@@ -3904,6 +4302,8 @@
   "SV": {
     "name": "El Salvador",
     "official": "Republic of El Salvador",
+    "iso2": "SV",
+    "iso3": "SLV",
     "currency": [
       "SVC",
       "USD"
@@ -3923,6 +4323,8 @@
   "SM": {
     "name": "San Marino",
     "official": "Most Serene Republic of San Marino",
+    "iso2": "SM",
+    "iso3": "SMR",
     "currency": [
       "EUR"
     ],
@@ -3940,6 +4342,8 @@
   "SO": {
     "name": "Somalia",
     "official": "Federal Republic of Somalia",
+    "iso2": "SO",
+    "iso3": "SOM",
     "currency": [
       "SOS"
     ],
@@ -3960,6 +4364,8 @@
   "PM": {
     "name": "Saint Pierre and Miquelon",
     "official": "Saint Pierre and Miquelon",
+    "iso2": "PM",
+    "iso3": "SPM",
     "currency": [
       "EUR"
     ],
@@ -3977,6 +4383,8 @@
   "RS": {
     "name": "Serbia",
     "official": "Republic of Serbia",
+    "iso2": "RS",
+    "iso3": "SRB",
     "currency": [
       "RSD"
     ],
@@ -4001,6 +4409,8 @@
   "SS": {
     "name": "South Sudan",
     "official": "Republic of South Sudan",
+    "iso2": "SS",
+    "iso3": "SSD",
     "currency": [
       "SSP"
     ],
@@ -4023,6 +4433,8 @@
   "ST": {
     "name": "São Tomé and Príncipe",
     "official": "Democratic Republic of São Tomé and Príncipe",
+    "iso2": "ST",
+    "iso3": "STP",
     "currency": [
       "STD"
     ],
@@ -4040,6 +4452,8 @@
   "SR": {
     "name": "Suriname",
     "official": "Republic of Suriname",
+    "iso2": "SR",
+    "iso3": "SUR",
     "currency": [
       "SRD"
     ],
@@ -4059,6 +4473,8 @@
   "SK": {
     "name": "Slovakia",
     "official": "Slovak Republic",
+    "iso2": "SK",
+    "iso3": "SVK",
     "currency": [
       "EUR"
     ],
@@ -4080,6 +4496,8 @@
   "SI": {
     "name": "Slovenia",
     "official": "Republic of Slovenia",
+    "iso2": "SI",
+    "iso3": "SVN",
     "currency": [
       "EUR"
     ],
@@ -4100,6 +4518,8 @@
   "SE": {
     "name": "Sweden",
     "official": "Kingdom of Sweden",
+    "iso2": "SE",
+    "iso3": "SWE",
     "currency": [
       "SEK"
     ],
@@ -4118,6 +4538,8 @@
   "SZ": {
     "name": "Swaziland",
     "official": "Kingdom of Swaziland",
+    "iso2": "SZ",
+    "iso3": "SWZ",
     "currency": [
       "SZL"
     ],
@@ -4137,6 +4559,8 @@
   "SX": {
     "name": "Sint Maarten",
     "official": "Sint Maarten",
+    "iso2": "SX",
+    "iso3": "SXM",
     "currency": [
       "ANG"
     ],
@@ -4156,6 +4580,8 @@
   "SC": {
     "name": "Seychelles",
     "official": "Republic of Seychelles",
+    "iso2": "SC",
+    "iso3": "SYC",
     "currency": [
       "SCR"
     ],
@@ -4175,6 +4601,8 @@
   "SY": {
     "name": "Syria",
     "official": "Syrian Arab Republic",
+    "iso2": "SY",
+    "iso3": "SYR",
     "currency": [
       "SYP"
     ],
@@ -4196,6 +4624,8 @@
   "TC": {
     "name": "Turks and Caicos Islands",
     "official": "Turks and Caicos Islands",
+    "iso2": "TC",
+    "iso3": "TCA",
     "currency": [
       "USD"
     ],
@@ -4213,6 +4643,8 @@
   "TD": {
     "name": "Chad",
     "official": "Republic of Chad",
+    "iso2": "TD",
+    "iso3": "TCD",
     "currency": [
       "XAF"
     ],
@@ -4236,6 +4668,8 @@
   "TG": {
     "name": "Togo",
     "official": "Togolese Republic",
+    "iso2": "TG",
+    "iso3": "TGO",
     "currency": [
       "XOF"
     ],
@@ -4255,6 +4689,8 @@
   "TH": {
     "name": "Thailand",
     "official": "Kingdom of Thailand",
+    "iso2": "TH",
+    "iso3": "THA",
     "currency": [
       "THB"
     ],
@@ -4275,6 +4711,8 @@
   "TJ": {
     "name": "Tajikistan",
     "official": "Republic of Tajikistan",
+    "iso2": "TJ",
+    "iso3": "TJK",
     "currency": [
       "TJS"
     ],
@@ -4296,6 +4734,8 @@
   "TK": {
     "name": "Tokelau",
     "official": "Tokelau",
+    "iso2": "TK",
+    "iso3": "TKL",
     "currency": [
       "NZD"
     ],
@@ -4315,6 +4755,8 @@
   "TM": {
     "name": "Turkmenistan",
     "official": "Turkmenistan",
+    "iso2": "TM",
+    "iso3": "TKM",
     "currency": [
       "TMT"
     ],
@@ -4336,6 +4778,8 @@
   "TL": {
     "name": "Timor-Leste",
     "official": "Democratic Republic of Timor-Leste",
+    "iso2": "TL",
+    "iso3": "TLS",
     "currency": [
       "USD"
     ],
@@ -4354,6 +4798,8 @@
   "TO": {
     "name": "Tonga",
     "official": "Kingdom of Tonga",
+    "iso2": "TO",
+    "iso3": "TON",
     "currency": [
       "TOP"
     ],
@@ -4372,6 +4818,8 @@
   "TT": {
     "name": "Trinidad and Tobago",
     "official": "Republic of Trinidad and Tobago",
+    "iso2": "TT",
+    "iso3": "TTO",
     "currency": [
       "TTD"
     ],
@@ -4389,6 +4837,8 @@
   "TN": {
     "name": "Tunisia",
     "official": "Tunisian Republic",
+    "iso2": "TN",
+    "iso3": "TUN",
     "currency": [
       "TND"
     ],
@@ -4407,6 +4857,8 @@
   "TR": {
     "name": "Turkey",
     "official": "Republic of Turkey",
+    "iso2": "TR",
+    "iso3": "TUR",
     "currency": [
       "TRY"
     ],
@@ -4431,6 +4883,8 @@
   "TV": {
     "name": "Tuvalu",
     "official": "Tuvalu",
+    "iso2": "TV",
+    "iso3": "TUV",
     "currency": [
       "AUD"
     ],
@@ -4449,6 +4903,8 @@
   "TW": {
     "name": "Taiwan",
     "official": "Republic of China",
+    "iso2": "TW",
+    "iso3": "TWN",
     "currency": [
       "TWD"
     ],
@@ -4466,6 +4922,8 @@
   "TZ": {
     "name": "Tanzania",
     "official": "United Republic of Tanzania",
+    "iso2": "TZ",
+    "iso3": "TZA",
     "currency": [
       "TZS"
     ],
@@ -4491,6 +4949,8 @@
   "UG": {
     "name": "Uganda",
     "official": "Republic of Uganda",
+    "iso2": "UG",
+    "iso3": "UGA",
     "currency": [
       "UGX"
     ],
@@ -4513,6 +4973,8 @@
   "UA": {
     "name": "Ukraine",
     "official": "Ukraine",
+    "iso2": "UA",
+    "iso3": "UKR",
     "currency": [
       "UAH"
     ],
@@ -4537,6 +4999,8 @@
   "UM": {
     "name": "United States Minor Outlying Islands",
     "official": "United States Minor Outlying Islands",
+    "iso2": "UM",
+    "iso3": "UMI",
     "currency": [
       "USD"
     ],
@@ -4554,6 +5018,8 @@
   "UY": {
     "name": "Uruguay",
     "official": "Oriental Republic of Uruguay",
+    "iso2": "UY",
+    "iso3": "URY",
     "currency": [
       "UYI",
       "UYU"
@@ -4573,6 +5039,8 @@
   "US": {
     "name": "United States",
     "official": "United States of America",
+    "iso2": "US",
+    "iso3": "USA",
     "currency": [
       "USD",
       "USN",
@@ -4593,6 +5061,8 @@
   "UZ": {
     "name": "Uzbekistan",
     "official": "Republic of Uzbekistan",
+    "iso2": "UZ",
+    "iso3": "UZB",
     "currency": [
       "UZS"
     ],
@@ -4615,6 +5085,8 @@
   "VA": {
     "name": "Vatican City",
     "official": "Vatican City State",
+    "iso2": "VA",
+    "iso3": "VAT",
     "currency": [
       "EUR"
     ],
@@ -4633,6 +5105,8 @@
   "VC": {
     "name": "Saint Vincent and the Grenadines",
     "official": "Saint Vincent and the Grenadines",
+    "iso2": "VC",
+    "iso3": "VCT",
     "currency": [
       "XCD"
     ],
@@ -4650,6 +5124,8 @@
   "VE": {
     "name": "Venezuela",
     "official": "Bolivarian Republic of Venezuela",
+    "iso2": "VE",
+    "iso3": "VEN",
     "currency": [
       "VEF"
     ],
@@ -4669,6 +5145,8 @@
   "VG": {
     "name": "British Virgin Islands",
     "official": "Virgin Islands",
+    "iso2": "VG",
+    "iso3": "VGB",
     "currency": [
       "USD"
     ],
@@ -4686,6 +5164,8 @@
   "VI": {
     "name": "United States Virgin Islands",
     "official": "Virgin Islands of the United States",
+    "iso2": "VI",
+    "iso3": "VIR",
     "currency": [
       "USD"
     ],
@@ -4703,6 +5183,8 @@
   "VN": {
     "name": "Vietnam",
     "official": "Socialist Republic of Vietnam",
+    "iso2": "VN",
+    "iso3": "VNM",
     "currency": [
       "VND"
     ],
@@ -4722,6 +5204,8 @@
   "VU": {
     "name": "Vanuatu",
     "official": "Republic of Vanuatu",
+    "iso2": "VU",
+    "iso3": "VUT",
     "currency": [
       "VUV"
     ],
@@ -4741,6 +5225,8 @@
   "WF": {
     "name": "Wallis and Futuna",
     "official": "Territory of the Wallis and Futuna Islands",
+    "iso2": "WF",
+    "iso3": "WLF",
     "currency": [
       "XPF"
     ],
@@ -4758,6 +5244,8 @@
   "WS": {
     "name": "Samoa",
     "official": "Independent State of Samoa",
+    "iso2": "WS",
+    "iso3": "WSM",
     "currency": [
       "WST"
     ],
@@ -4776,6 +5264,8 @@
   "YE": {
     "name": "Yemen",
     "official": "Republic of Yemen",
+    "iso2": "YE",
+    "iso3": "YEM",
     "currency": [
       "YER"
     ],
@@ -4794,6 +5284,8 @@
   "ZA": {
     "name": "South Africa",
     "official": "Republic of South Africa",
+    "iso2": "ZA",
+    "iso3": "ZAF",
     "currency": [
       "ZAR"
     ],
@@ -4826,6 +5318,8 @@
   "ZM": {
     "name": "Zambia",
     "official": "Republic of Zambia",
+    "iso2": "ZM",
+    "iso3": "ZMB",
     "currency": [
       "ZMW"
     ],
@@ -4850,6 +5344,8 @@
   "ZW": {
     "name": "Zimbabwe",
     "official": "Republic of Zimbabwe",
+    "iso2": "ZW",
+    "iso3": "ZWE",
     "currency": [
       "ZWL"
     ],

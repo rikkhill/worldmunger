@@ -11,6 +11,8 @@ geo.each do |c|
   output[c['cca2']] = {
     :name       => c['name']['common'],
     :official   => c['name']['official'],
+    :iso2       => c['cca2'],
+    :iso3       => c['cca3'],
     :currency   => c['currency'],
     :capital    => c['capital'],
     :region     => c['region'],
