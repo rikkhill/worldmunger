@@ -57,7 +57,7 @@ countries.all_codes.each do |c|
       record = NilRecord
     end
     body[c][ind.gsub('.', '-')] = {
-      :value      => record.value,
+      :value      => record.value.to_f.round(2), # We probably want 2dp
       :date       => record.date,
       :statistic  => lookup[ind][:name],
       :origin     => lookup[ind][:source]
