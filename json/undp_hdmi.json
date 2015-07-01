@@ -1,0 +1,2302 @@
+[ {
+  "_2012_expected_years_of_schooling" : "16.3",
+  "_2012_human_development_index_hdi_value" : "0.889",
+  "_2013_life_expectancy_at_birth_years" : "80.2",
+  "_2012_mean_years_of_schooling" : "11.7",
+  "_2013_hdi_value" : "0.890",
+  "country" : "Very high human development",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "40046"
+}
+, {
+  "hdi_rank" : "1",
+  "_2012_expected_years_of_schooling" : "17.6",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.943",
+  "_2013_life_expectancy_at_birth_years" : "81.5",
+  "_2012_mean_years_of_schooling" : "12.6",
+  "_2013_hdi_value" : "0.944",
+  "country" : "Norway",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "63909"
+}
+, {
+  "hdi_rank" : "2",
+  "_2012_expected_years_of_schooling" : "19.9",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.931",
+  "_2013_life_expectancy_at_birth_years" : "82.5",
+  "_2012_mean_years_of_schooling" : "12.8",
+  "_2013_hdi_value" : "0.933",
+  "country" : "Australia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "41524"
+}
+, {
+  "hdi_rank" : "3",
+  "_2012_expected_years_of_schooling" : "15.7",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.916",
+  "_2013_life_expectancy_at_birth_years" : "82.6",
+  "_2012_mean_years_of_schooling" : "12.2",
+  "_2013_hdi_value" : "0.917",
+  "country" : "Switzerland",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "53762"
+}
+, {
+  "hdi_rank" : "4",
+  "_2012_expected_years_of_schooling" : "17.9",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.915",
+  "_2013_life_expectancy_at_birth_years" : "81.0",
+  "_2012_mean_years_of_schooling" : "11.9",
+  "_2013_hdi_value" : "0.915",
+  "country" : "Netherlands",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "42397"
+}
+, {
+  "hdi_rank" : "5",
+  "_2012_expected_years_of_schooling" : "16.5",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.912",
+  "_2013_life_expectancy_at_birth_years" : "78.9",
+  "_2012_mean_years_of_schooling" : "12.9",
+  "_2013_hdi_value" : "0.914",
+  "country" : "United States",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "52308"
+}
+, {
+  "hdi_rank" : "6",
+  "_2012_expected_years_of_schooling" : "16.3",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.911",
+  "_2013_life_expectancy_at_birth_years" : "80.7",
+  "_2012_mean_years_of_schooling" : "12.9",
+  "_2013_hdi_value" : "0.911",
+  "country" : "Germany",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "43049"
+}
+, {
+  "hdi_rank" : "7",
+  "_2012_expected_years_of_schooling" : "19.4",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.908",
+  "_2013_life_expectancy_at_birth_years" : "81.1",
+  "_2012_mean_years_of_schooling" : "12.5",
+  "_2013_hdi_value" : "0.910",
+  "country" : "New Zealand",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "32569"
+}
+, {
+  "hdi_rank" : "8",
+  "_2012_expected_years_of_schooling" : "15.9",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.901",
+  "_2013_life_expectancy_at_birth_years" : "81.5",
+  "_2012_mean_years_of_schooling" : "12.3",
+  "_2013_hdi_value" : "0.902",
+  "country" : "Canada",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "41887"
+}
+, {
+  "hdi_rank" : "9",
+  "_2012_expected_years_of_schooling_note" : "c",
+  "_2012_expected_years_of_schooling" : "15.4",
+  "_2012_2013_change_in_rank" : "3",
+  "_2012_human_development_index_hdi_value" : "0.899",
+  "_2013_life_expectancy_at_birth_years" : "82.3",
+  "_2012_mean_years_of_schooling" : "10.2",
+  "_2013_hdi_value" : "0.901",
+  "country" : "Singapore",
+  "_2012_mean_years_of_schooling_note" : "b",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "72371"
+}
+, {
+  "hdi_rank" : "10",
+  "_2012_expected_years_of_schooling" : "16.9",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.900",
+  "_2013_life_expectancy_at_birth_years" : "79.4",
+  "_2012_mean_years_of_schooling" : "12.1",
+  "_2013_hdi_value" : "0.900",
+  "country" : "Denmark",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "42880"
+}
+, {
+  "hdi_rank" : "11",
+  "_2012_expected_years_of_schooling" : "18.6",
+  "_2012_2013_change_in_rank" : "-3",
+  "_2012_human_development_index_hdi_value" : "0.901",
+  "_2013_life_expectancy_at_birth_years" : "80.7",
+  "_2012_mean_years_of_schooling" : "11.6",
+  "_2013_hdi_value" : "0.899",
+  "country" : "Ireland",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "33414"
+}
+, {
+  "hdi_rank" : "12",
+  "_2012_expected_years_of_schooling" : "15.8",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.897",
+  "_2013_life_expectancy_at_birth_years" : "81.8",
+  "_2012_mean_years_of_schooling" : "11.7",
+  "_2013_hdi_value" : "0.898",
+  "country" : "Sweden",
+  "_2012_mean_years_of_schooling_note" : "b",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "43201"
+}
+, {
+  "hdi_rank" : "13",
+  "_2012_expected_years_of_schooling" : "18.7",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.893",
+  "_2013_life_expectancy_at_birth_years" : "82.1",
+  "_2012_mean_years_of_schooling" : "10.4",
+  "_2013_hdi_value" : "0.895",
+  "country" : "Iceland",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "35116"
+}
+, {
+  "hdi_rank" : "14",
+  "_2012_expected_years_of_schooling" : "16.2",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.890",
+  "_2013_life_expectancy_at_birth_years" : "80.5",
+  "_2012_mean_years_of_schooling" : "12.3",
+  "_2013_hdi_value" : "0.892",
+  "country" : "United Kingdom",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "35002"
+}
+, {
+  "hdi_rank" : "15",
+  "_2012_expected_years_of_schooling" : "15.6",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.889",
+  "_2013_life_expectancy_at_birth_years" : "83.4",
+  "_2012_mean_years_of_schooling" : "10.0",
+  "_2013_hdi_value" : "0.891",
+  "country" : "Hong Kong, China (SAR)",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "52383"
+}
+, {
+  "hdi_rank" : "15",
+  "_2012_expected_years_of_schooling" : "17.0",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.888",
+  "_2013_life_expectancy_at_birth_years" : "81.5",
+  "_2012_mean_years_of_schooling" : "11.8",
+  "_2013_hdi_value" : "0.891",
+  "country" : "Korea (Republic of)",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "30345"
+}
+, {
+  "hdi_rank" : "17",
+  "_2012_expected_years_of_schooling" : "15.3",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.888",
+  "_2013_life_expectancy_at_birth_years" : "83.6",
+  "_2012_mean_years_of_schooling" : "11.5",
+  "_2013_hdi_value" : "0.890",
+  "country" : "Japan",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "36747"
+}
+, {
+  "hdi_rank" : "18",
+  "_2012_expected_years_of_schooling" : "15.1",
+  "_2012_2013_change_in_rank" : "-2",
+  "_2012_human_development_index_hdi_value" : "0.888",
+  "_2013_life_expectancy_at_birth_years" : "79.9",
+  "_2013_life_expectancy_at_birth_years_note" : "d",
+  "_2012_mean_years_of_schooling" : "10.3",
+  "_2013_hdi_value" : "0.889",
+  "country" : "Liechtenstein",
+  "_2012_mean_years_of_schooling_note" : "e",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp_note" : "f,g",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "87085"
+}
+, {
+  "hdi_rank" : "19",
+  "_2012_expected_years_of_schooling" : "15.7",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.886",
+  "_2013_life_expectancy_at_birth_years" : "81.8",
+  "_2012_mean_years_of_schooling" : "12.5",
+  "_2013_hdi_value" : "0.888",
+  "country" : "Israel",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "29966"
+}
+, {
+  "hdi_rank" : "20",
+  "_2012_expected_years_of_schooling" : "16.0",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.884",
+  "_2013_life_expectancy_at_birth_years" : "81.8",
+  "_2012_mean_years_of_schooling" : "11.1",
+  "_2013_hdi_value" : "0.884",
+  "country" : "France",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "36629"
+}
+, {
+  "hdi_rank" : "21",
+  "_2012_expected_years_of_schooling" : "15.6",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.880",
+  "_2013_life_expectancy_at_birth_years" : "81.1",
+  "_2012_mean_years_of_schooling" : "10.8",
+  "_2013_hdi_value" : "0.881",
+  "country" : "Austria",
+  "_2012_mean_years_of_schooling_note" : "b",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "42930"
+}
+, {
+  "hdi_rank" : "21",
+  "_2012_expected_years_of_schooling" : "16.2",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.880",
+  "_2013_life_expectancy_at_birth_years" : "80.5",
+  "_2012_mean_years_of_schooling" : "10.9",
+  "_2013_hdi_value" : "0.881",
+  "country" : "Belgium",
+  "_2012_mean_years_of_schooling_note" : "b",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "39471"
+}
+, {
+  "hdi_rank" : "21",
+  "_2012_expected_years_of_schooling" : "13.9",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.880",
+  "_2013_life_expectancy_at_birth_years" : "80.5",
+  "_2012_mean_years_of_schooling" : "11.3",
+  "_2013_hdi_value" : "0.881",
+  "country" : "Luxembourg",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "58695"
+}
+, {
+  "hdi_rank" : "24",
+  "_2012_expected_years_of_schooling" : "17.0",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.879",
+  "_2013_life_expectancy_at_birth_years" : "80.5",
+  "_2012_mean_years_of_schooling" : "10.3",
+  "_2013_hdi_value" : "0.879",
+  "country" : "Finland",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "37366"
+}
+, {
+  "hdi_rank" : "25",
+  "_2012_expected_years_of_schooling" : "16.8",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.874",
+  "_2013_life_expectancy_at_birth_years" : "79.6",
+  "_2012_mean_years_of_schooling" : "11.9",
+  "_2013_hdi_value" : "0.874",
+  "country" : "Slovenia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "26809"
+}
+, {
+  "hdi_rank" : "26",
+  "_2012_expected_years_of_schooling" : "16.3",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.872",
+  "_2013_life_expectancy_at_birth_years" : "82.4",
+  "_2012_mean_years_of_schooling" : "10.1",
+  "_2013_hdi_value" : "0.872",
+  "country" : "Italy",
+  "_2012_mean_years_of_schooling_note" : "b",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "32669"
+}
+, {
+  "hdi_rank" : "27",
+  "_2012_expected_years_of_schooling" : "17.1",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.869",
+  "_2013_life_expectancy_at_birth_years" : "82.1",
+  "_2012_mean_years_of_schooling" : "9.6",
+  "_2013_hdi_value" : "0.869",
+  "country" : "Spain",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "30561"
+}
+, {
+  "hdi_rank" : "28",
+  "_2012_expected_years_of_schooling" : "16.4",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.861",
+  "_2013_life_expectancy_at_birth_years" : "77.7",
+  "_2012_mean_years_of_schooling" : "12.3",
+  "_2013_hdi_value" : "0.861",
+  "country" : "Czech Republic",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "24535"
+}
+, {
+  "hdi_rank" : "29",
+  "_2012_expected_years_of_schooling" : "16.5",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.854",
+  "_2013_life_expectancy_at_birth_years" : "80.8",
+  "_2012_mean_years_of_schooling" : "10.2",
+  "_2013_hdi_value" : "0.853",
+  "country" : "Greece",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "24658"
+}
+, {
+  "hdi_rank" : "30",
+  "_2012_expected_years_of_schooling" : "14.5",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.852",
+  "_2013_life_expectancy_at_birth_years" : "78.5",
+  "_2012_mean_years_of_schooling" : "8.7",
+  "_2013_hdi_value" : "0.852",
+  "country" : "Brunei Darussalam",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp_note" : "h",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "70883"
+}
+, {
+  "hdi_rank" : "31",
+  "_2012_expected_years_of_schooling" : "13.8",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.850",
+  "_2013_life_expectancy_at_birth_years" : "78.4",
+  "_2012_mean_years_of_schooling" : "9.1",
+  "_2013_hdi_value" : "0.851",
+  "country" : "Qatar",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp_note" : "g",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "119029"
+}
+, {
+  "hdi_rank" : "32",
+  "_2012_expected_years_of_schooling" : "14.0",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.848",
+  "_2013_life_expectancy_at_birth_years" : "79.8",
+  "_2012_mean_years_of_schooling" : "11.6",
+  "_2013_hdi_value" : "0.845",
+  "country" : "Cyprus",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "26771"
+}
+, {
+  "hdi_rank" : "33",
+  "_2012_expected_years_of_schooling" : "16.5",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.839",
+  "_2013_life_expectancy_at_birth_years" : "74.4",
+  "_2012_mean_years_of_schooling" : "12.0",
+  "_2013_hdi_value" : "0.840",
+  "country" : "Estonia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "23387"
+}
+, {
+  "hdi_rank" : "34",
+  "_2012_expected_years_of_schooling" : "15.6",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.833",
+  "_2013_life_expectancy_at_birth_years" : "75.5",
+  "_2012_mean_years_of_schooling" : "8.7",
+  "_2013_hdi_value" : "0.836",
+  "country" : "Saudi Arabia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "52109"
+}
+, {
+  "hdi_rank" : "35",
+  "_2012_expected_years_of_schooling" : "16.7",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.831",
+  "_2013_life_expectancy_at_birth_years" : "72.1",
+  "_2012_mean_years_of_schooling" : "12.4",
+  "_2013_hdi_value" : "0.834",
+  "country" : "Lithuania",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "23740"
+}
+, {
+  "hdi_rank" : "35",
+  "_2012_expected_years_of_schooling" : "15.5",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.833",
+  "_2013_life_expectancy_at_birth_years" : "76.4",
+  "_2012_mean_years_of_schooling" : "11.8",
+  "_2013_hdi_value" : "0.834",
+  "country" : "Poland",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "21487"
+}
+, {
+  "hdi_rank" : "37",
+  "_2012_expected_years_of_schooling" : "11.7",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.830",
+  "_2013_life_expectancy_at_birth_years" : "81.2",
+  "_2013_life_expectancy_at_birth_years_note" : "d",
+  "_2012_mean_years_of_schooling" : "10.4",
+  "_2013_hdi_value" : "0.830",
+  "country" : "Andorra",
+  "_2012_mean_years_of_schooling_note" : "i",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp_note" : "j",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "40597"
+}
+, {
+  "hdi_rank" : "37",
+  "_2012_expected_years_of_schooling" : "15.0",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.829",
+  "_2013_life_expectancy_at_birth_years" : "75.4",
+  "_2012_mean_years_of_schooling" : "11.6",
+  "_2013_hdi_value" : "0.830",
+  "country" : "Slovakia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "25336"
+}
+, {
+  "hdi_rank" : "39",
+  "_2012_expected_years_of_schooling" : "14.5",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.827",
+  "_2013_life_expectancy_at_birth_years" : "79.8",
+  "_2012_mean_years_of_schooling" : "9.9",
+  "_2013_hdi_value" : "0.829",
+  "country" : "Malta",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "27022"
+}
+, {
+  "hdi_rank" : "40",
+  "_2012_expected_years_of_schooling_note" : "k",
+  "_2012_expected_years_of_schooling" : "13.3",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.825",
+  "_2013_life_expectancy_at_birth_years" : "76.8",
+  "_2012_mean_years_of_schooling" : "9.1",
+  "_2013_hdi_value" : "0.827",
+  "country" : "United Arab Emirates",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "58068"
+}
+, {
+  "hdi_rank" : "41",
+  "_2012_expected_years_of_schooling" : "15.1",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.819",
+  "_2013_life_expectancy_at_birth_years" : "80.0",
+  "_2012_mean_years_of_schooling" : "9.8",
+  "_2013_hdi_value" : "0.822",
+  "country" : "Chile",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "20804"
+}
+, {
+  "hdi_rank" : "41",
+  "_2012_expected_years_of_schooling" : "16.3",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.822",
+  "_2013_life_expectancy_at_birth_years" : "79.9",
+  "_2012_mean_years_of_schooling" : "8.2",
+  "_2013_hdi_value" : "0.822",
+  "country" : "Portugal",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "24130"
+}
+, {
+  "hdi_rank" : "43",
+  "_2012_expected_years_of_schooling" : "15.4",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.817",
+  "_2013_life_expectancy_at_birth_years" : "74.6",
+  "_2012_mean_years_of_schooling" : "11.3",
+  "_2013_hdi_value" : "0.818",
+  "country" : "Hungary",
+  "_2012_mean_years_of_schooling_note" : "b",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "21239"
+}
+, {
+  "hdi_rank" : "44",
+  "_2012_expected_years_of_schooling_note" : "l",
+  "_2012_expected_years_of_schooling" : "14.4",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.813",
+  "_2013_life_expectancy_at_birth_years" : "76.6",
+  "_2012_mean_years_of_schooling" : "9.4",
+  "_2013_hdi_value" : "0.815",
+  "country" : "Bahrain",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp_note" : "h",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "32072"
+}
+, {
+  "hdi_rank" : "44",
+  "_2012_expected_years_of_schooling" : "14.5",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.813",
+  "_2013_life_expectancy_at_birth_years" : "79.3",
+  "_2012_mean_years_of_schooling" : "10.2",
+  "_2013_hdi_value" : "0.815",
+  "country" : "Cuba",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp_note" : "m",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "19844"
+}
+, {
+  "hdi_rank" : "46",
+  "_2012_expected_years_of_schooling" : "14.6",
+  "_2012_2013_change_in_rank" : "-2",
+  "_2012_human_development_index_hdi_value" : "0.813",
+  "_2013_life_expectancy_at_birth_years" : "74.3",
+  "_2012_mean_years_of_schooling" : "7.2",
+  "_2013_hdi_value" : "0.814",
+  "country" : "Kuwait",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp_note" : "g",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "85820"
+}
+, {
+  "hdi_rank" : "47",
+  "_2012_expected_years_of_schooling" : "14.5",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.812",
+  "_2013_life_expectancy_at_birth_years" : "77.0",
+  "_2012_mean_years_of_schooling" : "11.0",
+  "_2013_hdi_value" : "0.812",
+  "country" : "Croatia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "19025"
+}
+, {
+  "hdi_rank" : "48",
+  "_2012_expected_years_of_schooling" : "15.5",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.808",
+  "_2013_life_expectancy_at_birth_years" : "72.2",
+  "_2012_mean_years_of_schooling" : "11.5",
+  "_2013_hdi_value" : "0.810",
+  "country" : "Latvia",
+  "_2012_mean_years_of_schooling_note" : "b",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "22186"
+}
+, {
+  "hdi_rank" : "49",
+  "_2012_expected_years_of_schooling" : "16.4",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.806",
+  "_2013_life_expectancy_at_birth_years" : "76.3",
+  "_2012_mean_years_of_schooling" : "9.8",
+  "_2013_hdi_value" : "0.808",
+  "country" : "Argentina",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp_note" : "h",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "17297"
+}
+, {
+  "_2012_expected_years_of_schooling" : "13.4",
+  "_2012_human_development_index_hdi_value" : "0.733",
+  "_2013_life_expectancy_at_birth_years" : "74.5",
+  "_2012_mean_years_of_schooling" : "8.1",
+  "_2013_hdi_value" : "0.735",
+  "country" : "High human development",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "13231"
+}
+, {
+  "hdi_rank" : "50",
+  "_2012_expected_years_of_schooling" : "15.5",
+  "_2012_2013_change_in_rank" : "2",
+  "_2012_human_development_index_hdi_value" : "0.787",
+  "_2013_life_expectancy_at_birth_years" : "77.2",
+  "_2012_mean_years_of_schooling" : "8.5",
+  "_2013_hdi_value" : "0.790",
+  "country" : "Uruguay",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "18108"
+}
+, {
+  "hdi_rank" : "51",
+  "_2012_expected_years_of_schooling_note" : "n",
+  "_2012_expected_years_of_schooling" : "12.6",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.788",
+  "_2013_life_expectancy_at_birth_years" : "75.2",
+  "_2012_mean_years_of_schooling" : "10.9",
+  "_2013_hdi_value" : "0.789",
+  "country" : "Bahamas",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "21414"
+}
+, {
+  "hdi_rank" : "51",
+  "_2012_expected_years_of_schooling" : "15.2",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.787",
+  "_2013_life_expectancy_at_birth_years" : "74.8",
+  "_2012_mean_years_of_schooling" : "10.5",
+  "_2013_hdi_value" : "0.789",
+  "country" : "Montenegro",
+  "_2012_mean_years_of_schooling_note" : "o",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "14710"
+}
+, {
+  "hdi_rank" : "53",
+  "_2012_expected_years_of_schooling" : "15.7",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.785",
+  "_2013_life_expectancy_at_birth_years" : "69.9",
+  "_2012_mean_years_of_schooling" : "11.5",
+  "_2013_hdi_value" : "0.786",
+  "country" : "Belarus",
+  "_2012_mean_years_of_schooling_note" : "o",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "16403"
+}
+, {
+  "hdi_rank" : "54",
+  "_2012_expected_years_of_schooling" : "14.1",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.782",
+  "_2013_life_expectancy_at_birth_years" : "73.8",
+  "_2012_mean_years_of_schooling" : "10.7",
+  "_2013_hdi_value" : "0.785",
+  "country" : "Romania",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "17433"
+}
+, {
+  "hdi_rank" : "55",
+  "_2012_expected_years_of_schooling" : "16.1",
+  "_2012_2013_change_in_rank" : "-5",
+  "_2012_human_development_index_hdi_value" : "0.789",
+  "_2013_life_expectancy_at_birth_years" : "75.3",
+  "_2012_mean_years_of_schooling" : "7.5",
+  "_2013_hdi_value" : "0.784",
+  "country" : "Libya",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp_note" : "h",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "21666"
+}
+, {
+  "hdi_rank" : "56",
+  "_2012_expected_years_of_schooling" : "13.6",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.781",
+  "_2013_life_expectancy_at_birth_years" : "76.6",
+  "_2012_mean_years_of_schooling" : "6.8",
+  "_2013_hdi_value" : "0.783",
+  "country" : "Oman",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp_note" : "h",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "42191"
+}
+, {
+  "hdi_rank" : "57",
+  "_2012_expected_years_of_schooling" : "14.0",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.777",
+  "_2013_life_expectancy_at_birth_years" : "68.0",
+  "_2012_mean_years_of_schooling" : "11.7",
+  "_2013_hdi_value" : "0.778",
+  "country" : "Russian Federation",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "22617"
+}
+, {
+  "hdi_rank" : "58",
+  "_2012_expected_years_of_schooling" : "14.3",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.776",
+  "_2013_life_expectancy_at_birth_years" : "73.5",
+  "_2012_mean_years_of_schooling" : "10.6",
+  "_2013_hdi_value" : "0.777",
+  "country" : "Bulgaria",
+  "_2012_mean_years_of_schooling_note" : "b",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "15402"
+}
+, {
+  "hdi_rank" : "59",
+  "_2012_expected_years_of_schooling" : "15.4",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.776",
+  "_2013_life_expectancy_at_birth_years" : "75.4",
+  "_2012_mean_years_of_schooling" : "9.4",
+  "_2013_hdi_value" : "0.776",
+  "country" : "Barbados",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "13604"
+}
+, {
+  "hdi_rank" : "60",
+  "_2012_expected_years_of_schooling" : "13.7",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.773",
+  "_2013_life_expectancy_at_birth_years" : "72.4",
+  "_2013_life_expectancy_at_birth_years_note" : "d",
+  "_2012_mean_years_of_schooling" : "12.2",
+  "_2013_hdi_value" : "0.775",
+  "country" : "Palau",
+  "_2012_mean_years_of_schooling_note" : "p",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "12823"
+}
+, {
+  "hdi_rank" : "61",
+  "_2012_expected_years_of_schooling" : "13.8",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.773",
+  "_2013_life_expectancy_at_birth_years" : "76.0",
+  "_2012_mean_years_of_schooling" : "8.9",
+  "_2013_hdi_value" : "0.774",
+  "country" : "Antigua and Barbuda",
+  "_2012_mean_years_of_schooling_note" : "p",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "18800"
+}
+, {
+  "hdi_rank" : "62",
+  "_2012_expected_years_of_schooling" : "12.7",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.770",
+  "_2013_life_expectancy_at_birth_years" : "75.0",
+  "_2012_mean_years_of_schooling" : "9.5",
+  "_2013_hdi_value" : "0.773",
+  "country" : "Malaysia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "21824"
+}
+, {
+  "hdi_rank" : "63",
+  "_2012_expected_years_of_schooling" : "15.6",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.769",
+  "_2013_life_expectancy_at_birth_years" : "73.6",
+  "_2012_mean_years_of_schooling" : "8.5",
+  "_2013_hdi_value" : "0.771",
+  "country" : "Mauritius",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "16777"
+}
+, {
+  "hdi_rank" : "64",
+  "_2012_expected_years_of_schooling" : "12.3",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.765",
+  "_2013_life_expectancy_at_birth_years" : "69.9",
+  "_2012_mean_years_of_schooling" : "10.8",
+  "_2013_hdi_value" : "0.766",
+  "country" : "Trinidad and Tobago",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "25325"
+}
+, {
+  "hdi_rank" : "65",
+  "_2012_expected_years_of_schooling" : "13.2",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.764",
+  "_2013_life_expectancy_at_birth_years" : "80.0",
+  "_2012_mean_years_of_schooling" : "7.9",
+  "_2013_hdi_value" : "0.765",
+  "country" : "Lebanon",
+  "_2012_mean_years_of_schooling_note" : "o",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "16263"
+}
+, {
+  "hdi_rank" : "65",
+  "_2012_expected_years_of_schooling" : "12.4",
+  "_2012_2013_change_in_rank" : "2",
+  "_2012_human_development_index_hdi_value" : "0.761",
+  "_2013_life_expectancy_at_birth_years" : "77.6",
+  "_2012_mean_years_of_schooling" : "9.4",
+  "_2013_hdi_value" : "0.765",
+  "country" : "Panama",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "16379"
+}
+, {
+  "hdi_rank" : "67",
+  "_2012_expected_years_of_schooling" : "14.2",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.763",
+  "_2013_life_expectancy_at_birth_years" : "74.6",
+  "_2012_mean_years_of_schooling" : "8.6",
+  "_2013_hdi_value" : "0.764",
+  "country" : "Venezuela (Bolivarian Republic of)",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "17067"
+}
+, {
+  "hdi_rank" : "68",
+  "_2012_expected_years_of_schooling" : "13.5",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.761",
+  "_2013_life_expectancy_at_birth_years" : "79.9",
+  "_2012_mean_years_of_schooling" : "8.4",
+  "_2013_hdi_value" : "0.763",
+  "country" : "Costa Rica",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "13012"
+}
+, {
+  "hdi_rank" : "69",
+  "_2012_expected_years_of_schooling" : "14.4",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.756",
+  "_2013_life_expectancy_at_birth_years" : "75.3",
+  "_2012_mean_years_of_schooling" : "7.6",
+  "_2013_hdi_value" : "0.759",
+  "country" : "Turkey",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "18391"
+}
+, {
+  "hdi_rank" : "70",
+  "_2012_expected_years_of_schooling" : "15.0",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.755",
+  "_2013_life_expectancy_at_birth_years" : "66.5",
+  "_2012_mean_years_of_schooling" : "10.4",
+  "_2013_hdi_value" : "0.757",
+  "country" : "Kazakhstan",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "19441"
+}
+, {
+  "hdi_rank" : "71",
+  "_2012_expected_years_of_schooling" : "12.8",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.755",
+  "_2013_life_expectancy_at_birth_years" : "77.5",
+  "_2012_mean_years_of_schooling" : "8.5",
+  "_2013_hdi_value" : "0.756",
+  "country" : "Mexico",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "15854"
+}
+, {
+  "hdi_rank" : "71",
+  "_2012_expected_years_of_schooling" : "11.6",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.755",
+  "_2013_life_expectancy_at_birth_years" : "73.2",
+  "_2012_mean_years_of_schooling" : "9.4",
+  "_2013_hdi_value" : "0.756",
+  "country" : "Seychelles",
+  "_2012_mean_years_of_schooling_note" : "o",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "24632"
+}
+, {
+  "hdi_rank" : "73",
+  "_2012_expected_years_of_schooling" : "12.9",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.749",
+  "_2013_life_expectancy_at_birth_years" : "73.6",
+  "_2013_life_expectancy_at_birth_years_note" : "d",
+  "_2012_mean_years_of_schooling" : "8.4",
+  "_2013_hdi_value" : "0.750",
+  "country" : "Saint Kitts and Nevis",
+  "_2012_mean_years_of_schooling_note" : "p",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "20150"
+}
+, {
+  "hdi_rank" : "73",
+  "_2012_expected_years_of_schooling" : "13.6",
+  "_2012_2013_change_in_rank" : "2",
+  "_2012_human_development_index_hdi_value" : "0.745",
+  "_2013_life_expectancy_at_birth_years" : "74.3",
+  "_2012_mean_years_of_schooling" : "10.8",
+  "_2013_hdi_value" : "0.750",
+  "country" : "Sri Lanka",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "9250"
+}
+, {
+  "hdi_rank" : "75",
+  "_2012_expected_years_of_schooling" : "15.2",
+  "_2012_2013_change_in_rank" : "-2",
+  "_2012_human_development_index_hdi_value" : "0.749",
+  "_2013_life_expectancy_at_birth_years" : "74.0",
+  "_2012_mean_years_of_schooling" : "7.8",
+  "_2013_hdi_value" : "0.749",
+  "country" : "Iran (Islamic Republic of)",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp_note" : "h",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "13451"
+}
+, {
+  "hdi_rank" : "76",
+  "_2012_expected_years_of_schooling" : "11.8",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.745",
+  "_2013_life_expectancy_at_birth_years" : "70.8",
+  "_2012_mean_years_of_schooling" : "11.2",
+  "_2013_hdi_value" : "0.747",
+  "country" : "Azerbaijan",
+  "_2012_mean_years_of_schooling_note" : "o",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "15725"
+}
+, {
+  "hdi_rank" : "77",
+  "_2012_expected_years_of_schooling" : "13.3",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.744",
+  "_2013_life_expectancy_at_birth_years" : "73.9",
+  "_2012_mean_years_of_schooling" : "9.9",
+  "_2013_hdi_value" : "0.745",
+  "country" : "Jordan",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "11337"
+}
+, {
+  "hdi_rank" : "77",
+  "_2012_expected_years_of_schooling" : "13.6",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.743",
+  "_2013_life_expectancy_at_birth_years" : "74.1",
+  "_2012_mean_years_of_schooling" : "9.5",
+  "_2013_hdi_value" : "0.745",
+  "country" : "Serbia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "11301"
+}
+, {
+  "hdi_rank" : "79",
+  "_2012_expected_years_of_schooling_note" : "q",
+  "_2012_expected_years_of_schooling" : "15.2",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.742",
+  "_2013_life_expectancy_at_birth_years" : "73.9",
+  "_2012_mean_years_of_schooling" : "7.2",
+  "_2013_hdi_value" : "0.744",
+  "country" : "Brazil",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "14275"
+}
+, {
+  "hdi_rank" : "79",
+  "_2012_expected_years_of_schooling" : "13.2",
+  "_2012_2013_change_in_rank" : "2",
+  "_2012_human_development_index_hdi_value" : "0.741",
+  "_2013_life_expectancy_at_birth_years" : "74.3",
+  "_2012_mean_years_of_schooling" : "12.1",
+  "_2013_hdi_value" : "0.744",
+  "country" : "Georgia",
+  "_2012_mean_years_of_schooling_note" : "r",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "6890"
+}
+, {
+  "hdi_rank" : "79",
+  "_2012_expected_years_of_schooling" : "15.8",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.743",
+  "_2013_life_expectancy_at_birth_years" : "72.8",
+  "_2012_mean_years_of_schooling" : "8.6",
+  "_2013_hdi_value" : "0.744",
+  "country" : "Grenada",
+  "_2012_mean_years_of_schooling_note" : "p",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "10339"
+}
+, {
+  "hdi_rank" : "82",
+  "_2012_expected_years_of_schooling" : "13.1",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.734",
+  "_2013_life_expectancy_at_birth_years" : "74.8",
+  "_2012_mean_years_of_schooling" : "9.0",
+  "_2013_hdi_value" : "0.737",
+  "country" : "Peru",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "11280"
+}
+, {
+  "hdi_rank" : "83",
+  "_2012_expected_years_of_schooling" : "15.1",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.733",
+  "_2013_life_expectancy_at_birth_years" : "68.5",
+  "_2012_mean_years_of_schooling" : "11.3",
+  "_2013_hdi_value" : "0.734",
+  "country" : "Ukraine",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "8215"
+}
+, {
+  "hdi_rank" : "84",
+  "_2012_expected_years_of_schooling" : "13.7",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.731",
+  "_2013_life_expectancy_at_birth_years" : "73.9",
+  "_2012_mean_years_of_schooling" : "9.3",
+  "_2013_hdi_value" : "0.732",
+  "country" : "Belize",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "9364"
+}
+, {
+  "hdi_rank" : "84",
+  "_2012_expected_years_of_schooling" : "13.3",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.730",
+  "_2013_life_expectancy_at_birth_years" : "75.2",
+  "_2012_mean_years_of_schooling" : "8.2",
+  "_2013_hdi_value" : "0.732",
+  "country" : "The former Yugoslav Republic of Macedonia",
+  "_2012_mean_years_of_schooling_note" : "r",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "11745"
+}
+, {
+  "hdi_rank" : "86",
+  "_2012_expected_years_of_schooling" : "13.6",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.729",
+  "_2013_life_expectancy_at_birth_years" : "76.4",
+  "_2012_mean_years_of_schooling" : "8.3",
+  "_2013_hdi_value" : "0.731",
+  "country" : "Bosnia and Herzegovina",
+  "_2012_mean_years_of_schooling_note" : "o",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "9431"
+}
+, {
+  "hdi_rank" : "87",
+  "_2012_expected_years_of_schooling" : "12.3",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.728",
+  "_2013_life_expectancy_at_birth_years" : "74.6",
+  "_2012_mean_years_of_schooling" : "10.8",
+  "_2013_hdi_value" : "0.730",
+  "country" : "Armenia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "7952"
+}
+, {
+  "hdi_rank" : "88",
+  "_2012_expected_years_of_schooling" : "15.7",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.722",
+  "_2013_life_expectancy_at_birth_years" : "69.8",
+  "_2012_mean_years_of_schooling" : "9.9",
+  "_2013_hdi_value" : "0.724",
+  "country" : "Fiji",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "7214"
+}
+, {
+  "hdi_rank" : "89",
+  "_2012_expected_years_of_schooling" : "13.1",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.720",
+  "_2013_life_expectancy_at_birth_years" : "74.4",
+  "_2012_mean_years_of_schooling" : "7.3",
+  "_2013_hdi_value" : "0.722",
+  "country" : "Thailand",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "13364"
+}
+, {
+  "hdi_rank" : "90",
+  "_2012_expected_years_of_schooling" : "14.6",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.719",
+  "_2013_life_expectancy_at_birth_years" : "75.9",
+  "_2012_mean_years_of_schooling" : "6.5",
+  "_2013_hdi_value" : "0.721",
+  "country" : "Tunisia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "10440"
+}
+, {
+  "hdi_rank" : "91",
+  "_2012_expected_years_of_schooling" : "12.9",
+  "_2012_2013_change_in_rank" : "2",
+  "_2012_human_development_index_hdi_value" : "0.715",
+  "_2013_life_expectancy_at_birth_years" : "75.3",
+  "_2012_mean_years_of_schooling" : "7.5",
+  "_2013_hdi_value" : "0.719",
+  "country" : "China",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "11477"
+}
+, {
+  "hdi_rank" : "91",
+  "_2012_expected_years_of_schooling" : "13.3",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.717",
+  "_2013_life_expectancy_at_birth_years" : "72.5",
+  "_2012_mean_years_of_schooling" : "8.6",
+  "_2013_hdi_value" : "0.719",
+  "country" : "Saint Vincent and the Grenadines",
+  "_2012_mean_years_of_schooling_note" : "p",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "10339"
+}
+, {
+  "hdi_rank" : "93",
+  "_2012_expected_years_of_schooling" : "14.0",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.715",
+  "_2013_life_expectancy_at_birth_years" : "71.0",
+  "_2012_mean_years_of_schooling" : "7.6",
+  "_2013_hdi_value" : "0.717",
+  "country" : "Algeria",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "12555"
+}
+, {
+  "hdi_rank" : "93",
+  "_2012_expected_years_of_schooling_note" : "n",
+  "_2012_expected_years_of_schooling" : "12.7",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.716",
+  "_2013_life_expectancy_at_birth_years" : "77.7",
+  "_2013_life_expectancy_at_birth_years_note" : "d",
+  "_2012_mean_years_of_schooling" : "7.7",
+  "_2013_hdi_value" : "0.717",
+  "country" : "Dominica",
+  "_2012_mean_years_of_schooling_note" : "p",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "9235"
+}
+, {
+  "hdi_rank" : "95",
+  "_2012_expected_years_of_schooling" : "10.8",
+  "_2012_2013_change_in_rank" : "2",
+  "_2012_human_development_index_hdi_value" : "0.714",
+  "_2013_life_expectancy_at_birth_years" : "77.4",
+  "_2012_mean_years_of_schooling" : "9.3",
+  "_2013_hdi_value" : "0.716",
+  "country" : "Albania",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "9225"
+}
+, {
+  "hdi_rank" : "96",
+  "_2012_expected_years_of_schooling" : "12.5",
+  "_2012_2013_change_in_rank" : "-3",
+  "_2012_human_development_index_hdi_value" : "0.715",
+  "_2013_life_expectancy_at_birth_years" : "73.5",
+  "_2012_mean_years_of_schooling" : "9.6",
+  "_2013_hdi_value" : "0.715",
+  "country" : "Jamaica",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "8170"
+}
+, {
+  "hdi_rank" : "97",
+  "_2012_expected_years_of_schooling" : "12.8",
+  "_2012_2013_change_in_rank" : "-4",
+  "_2012_human_development_index_hdi_value" : "0.715",
+  "_2013_life_expectancy_at_birth_years" : "74.8",
+  "_2012_mean_years_of_schooling" : "8.3",
+  "_2013_hdi_value" : "0.714",
+  "country" : "Saint Lucia",
+  "_2012_mean_years_of_schooling_note" : "p",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "9251"
+}
+, {
+  "hdi_rank" : "98",
+  "_2012_expected_years_of_schooling" : "13.2",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.708",
+  "_2013_life_expectancy_at_birth_years" : "74.0",
+  "_2012_mean_years_of_schooling" : "7.1",
+  "_2013_hdi_value" : "0.711",
+  "country" : "Colombia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "11527"
+}
+, {
+  "hdi_rank" : "98",
+  "_2012_expected_years_of_schooling_note" : "n",
+  "_2012_expected_years_of_schooling" : "12.3",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.708",
+  "_2013_life_expectancy_at_birth_years" : "76.5",
+  "_2012_mean_years_of_schooling" : "7.6",
+  "_2013_hdi_value" : "0.711",
+  "country" : "Ecuador",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "9998"
+}
+, {
+  "hdi_rank" : "100",
+  "_2012_expected_years_of_schooling" : "12.0",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.702",
+  "_2013_life_expectancy_at_birth_years" : "71.0",
+  "_2012_mean_years_of_schooling" : "7.7",
+  "_2013_hdi_value" : "0.705",
+  "country" : "Suriname",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "15113"
+}
+, {
+  "hdi_rank" : "100",
+  "_2012_expected_years_of_schooling" : "14.7",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.704",
+  "_2013_life_expectancy_at_birth_years" : "72.7",
+  "_2012_mean_years_of_schooling" : "9.4",
+  "_2013_hdi_value" : "0.705",
+  "country" : "Tonga",
+  "_2012_mean_years_of_schooling_note" : "b",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "5316"
+}
+, {
+  "hdi_rank" : "102",
+  "_2012_expected_years_of_schooling_note" : "l",
+  "_2012_expected_years_of_schooling" : "12.3",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.698",
+  "_2013_life_expectancy_at_birth_years" : "73.4",
+  "_2012_mean_years_of_schooling" : "7.5",
+  "_2013_hdi_value" : "0.700",
+  "country" : "Dominican Republic",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "10844"
+}
+, {
+  "_2012_expected_years_of_schooling" : "11.7",
+  "_2012_human_development_index_hdi_value" : "0.612",
+  "_2013_life_expectancy_at_birth_years" : "67.9",
+  "_2012_mean_years_of_schooling" : "5.5",
+  "_2013_hdi_value" : "0.614",
+  "country" : "Medium human development",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "5960"
+}
+, {
+  "hdi_rank" : "103",
+  "_2012_expected_years_of_schooling" : "12.7",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.695",
+  "_2013_life_expectancy_at_birth_years" : "77.9",
+  "_2012_mean_years_of_schooling" : "5.8",
+  "_2013_hdi_value" : "0.698",
+  "country" : "Maldives",
+  "_2012_mean_years_of_schooling_note" : "b",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "10074"
+}
+, {
+  "hdi_rank" : "103",
+  "_2012_expected_years_of_schooling" : "15.0",
+  "_2012_2013_change_in_rank" : "3",
+  "_2012_human_development_index_hdi_value" : "0.692",
+  "_2013_life_expectancy_at_birth_years" : "67.5",
+  "_2012_mean_years_of_schooling" : "8.3",
+  "_2013_hdi_value" : "0.698",
+  "country" : "Mongolia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "8466"
+}
+, {
+  "hdi_rank" : "103",
+  "_2012_expected_years_of_schooling_note" : "p",
+  "_2012_expected_years_of_schooling" : "12.6",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.693",
+  "_2013_life_expectancy_at_birth_years" : "65.5",
+  "_2012_mean_years_of_schooling" : "9.9",
+  "_2013_hdi_value" : "0.698",
+  "country" : "Turkmenistan",
+  "_2012_mean_years_of_schooling_note" : "s",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "11533"
+}
+, {
+  "hdi_rank" : "106",
+  "_2012_expected_years_of_schooling_note" : "t",
+  "_2012_expected_years_of_schooling" : "12.9",
+  "_2012_2013_change_in_rank" : "-2",
+  "_2012_human_development_index_hdi_value" : "0.693",
+  "_2013_life_expectancy_at_birth_years" : "73.2",
+  "_2012_mean_years_of_schooling" : "10.3",
+  "_2013_hdi_value" : "0.694",
+  "country" : "Samoa",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "4708"
+}
+, {
+  "hdi_rank" : "107",
+  "_2012_expected_years_of_schooling" : "13.2",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.683",
+  "_2013_life_expectancy_at_birth_years" : "73.2",
+  "_2012_mean_years_of_schooling" : "8.9",
+  "_2013_hdi_value" : "0.686",
+  "country" : "Palestine, State of",
+  "_2012_mean_years_of_schooling_note" : "o",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp_note" : "h,u",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "5168"
+}
+, {
+  "hdi_rank" : "108",
+  "_2012_expected_years_of_schooling" : "12.7",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.681",
+  "_2013_life_expectancy_at_birth_years" : "70.8",
+  "_2012_mean_years_of_schooling" : "7.5",
+  "_2013_hdi_value" : "0.684",
+  "country" : "Indonesia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "8970"
+}
+, {
+  "hdi_rank" : "109",
+  "_2012_expected_years_of_schooling" : "11.7",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.681",
+  "_2013_life_expectancy_at_birth_years" : "64.4",
+  "_2013_life_expectancy_at_birth_years_note" : "v",
+  "_2012_mean_years_of_schooling" : "8.8",
+  "_2013_hdi_value" : "0.683",
+  "country" : "Botswana",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "14792"
+}
+, {
+  "hdi_rank" : "110",
+  "_2012_expected_years_of_schooling" : "13.0",
+  "_2012_2013_change_in_rank" : "-2",
+  "_2012_human_development_index_hdi_value" : "0.681",
+  "_2013_life_expectancy_at_birth_years" : "71.2",
+  "_2012_mean_years_of_schooling" : "6.4",
+  "_2013_hdi_value" : "0.682",
+  "country" : "Egypt",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "10400"
+}
+, {
+  "hdi_rank" : "111",
+  "_2012_expected_years_of_schooling" : "11.9",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.670",
+  "_2013_life_expectancy_at_birth_years" : "72.3",
+  "_2012_mean_years_of_schooling" : "7.7",
+  "_2013_hdi_value" : "0.676",
+  "country" : "Paraguay",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "7580"
+}
+, {
+  "hdi_rank" : "112",
+  "_2012_expected_years_of_schooling" : "12.3",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.670",
+  "_2013_life_expectancy_at_birth_years" : "63.5",
+  "_2012_mean_years_of_schooling" : "7.4",
+  "_2013_hdi_value" : "0.674",
+  "country" : "Gabon",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "16977"
+}
+, {
+  "hdi_rank" : "113",
+  "_2012_expected_years_of_schooling" : "13.2",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.663",
+  "_2013_life_expectancy_at_birth_years" : "67.3",
+  "_2012_mean_years_of_schooling" : "9.2",
+  "_2013_hdi_value" : "0.667",
+  "country" : "Bolivia (Plurinational State of)",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "5552"
+}
+, {
+  "hdi_rank" : "114",
+  "_2012_expected_years_of_schooling" : "11.8",
+  "_2012_2013_change_in_rank" : "2",
+  "_2012_human_development_index_hdi_value" : "0.657",
+  "_2013_life_expectancy_at_birth_years" : "68.9",
+  "_2012_mean_years_of_schooling" : "9.8",
+  "_2013_hdi_value" : "0.663",
+  "country" : "Moldova (Republic of)",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "5041"
+}
+, {
+  "hdi_rank" : "115",
+  "_2012_expected_years_of_schooling" : "12.1",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.660",
+  "_2013_life_expectancy_at_birth_years" : "72.6",
+  "_2012_mean_years_of_schooling" : "6.5",
+  "_2013_hdi_value" : "0.662",
+  "country" : "El Salvador",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "7240"
+}
+, {
+  "hdi_rank" : "116",
+  "_2012_expected_years_of_schooling" : "11.5",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.657",
+  "_2013_life_expectancy_at_birth_years" : "68.2",
+  "_2012_mean_years_of_schooling" : "10.0",
+  "_2013_hdi_value" : "0.661",
+  "country" : "Uzbekistan",
+  "_2012_mean_years_of_schooling_note" : "r",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "5227"
+}
+, {
+  "hdi_rank" : "117",
+  "_2012_expected_years_of_schooling" : "11.3",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.656",
+  "_2013_life_expectancy_at_birth_years" : "68.7",
+  "_2012_mean_years_of_schooling" : "8.9",
+  "_2013_hdi_value" : "0.660",
+  "country" : "Philippines",
+  "_2012_mean_years_of_schooling_note" : "b",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "6381"
+}
+, {
+  "hdi_rank" : "118",
+  "_2012_expected_years_of_schooling_note" : "p",
+  "_2012_expected_years_of_schooling" : "13.1",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.654",
+  "_2013_life_expectancy_at_birth_years" : "56.9",
+  "_2012_mean_years_of_schooling" : "9.9",
+  "_2013_hdi_value" : "0.658",
+  "country" : "South Africa",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "11788"
+}
+, {
+  "hdi_rank" : "118",
+  "_2012_expected_years_of_schooling" : "12.0",
+  "_2012_2013_change_in_rank" : "-4",
+  "_2012_human_development_index_hdi_value" : "0.662",
+  "_2013_life_expectancy_at_birth_years" : "74.6",
+  "_2012_mean_years_of_schooling" : "6.6",
+  "_2013_hdi_value" : "0.658",
+  "country" : "Syrian Arab Republic",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp_note" : "h,u",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "5771"
+}
+, {
+  "hdi_rank" : "120",
+  "_2012_expected_years_of_schooling" : "10.1",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.641",
+  "_2013_life_expectancy_at_birth_years" : "69.4",
+  "_2012_mean_years_of_schooling" : "5.6",
+  "_2013_hdi_value" : "0.642",
+  "country" : "Iraq",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "14007"
+}
+, {
+  "hdi_rank" : "121",
+  "_2012_expected_years_of_schooling" : "10.7",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.635",
+  "_2013_life_expectancy_at_birth_years" : "66.3",
+  "_2012_mean_years_of_schooling" : "8.5",
+  "_2013_hdi_value" : "0.638",
+  "country" : "Guyana",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "6341"
+}
+, {
+  "hdi_rank" : "121",
+  "_2012_expected_years_of_schooling_note" : "n",
+  "_2012_expected_years_of_schooling" : "11.9",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.635",
+  "_2013_life_expectancy_at_birth_years" : "75.9",
+  "_2012_mean_years_of_schooling" : "5.5",
+  "_2013_hdi_value" : "0.638",
+  "country" : "Viet Nam",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "4892"
+}
+, {
+  "hdi_rank" : "123",
+  "_2012_expected_years_of_schooling" : "13.2",
+  "_2012_2013_change_in_rank" : "-2",
+  "_2012_human_development_index_hdi_value" : "0.635",
+  "_2013_life_expectancy_at_birth_years" : "75.1",
+  "_2012_mean_years_of_schooling" : "3.5",
+  "_2013_hdi_value" : "0.636",
+  "country" : "Cape Verde",
+  "_2012_mean_years_of_schooling_note" : "p",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "6365"
+}
+, {
+  "hdi_rank" : "124",
+  "_2012_expected_years_of_schooling_note" : "p",
+  "_2012_expected_years_of_schooling" : "11.4",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.629",
+  "_2013_life_expectancy_at_birth_years" : "69.0",
+  "_2012_mean_years_of_schooling" : "8.8",
+  "_2013_hdi_value" : "0.630",
+  "country" : "Micronesia (Federated States of)",
+  "_2012_mean_years_of_schooling_note" : "s",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "3662"
+}
+, {
+  "hdi_rank" : "125",
+  "_2012_expected_years_of_schooling" : "10.7",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.626",
+  "_2013_life_expectancy_at_birth_years" : "72.1",
+  "_2012_mean_years_of_schooling" : "5.6",
+  "_2013_hdi_value" : "0.628",
+  "country" : "Guatemala",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "6866"
+}
+, {
+  "hdi_rank" : "125",
+  "_2012_expected_years_of_schooling" : "12.5",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.621",
+  "_2013_life_expectancy_at_birth_years" : "67.5",
+  "_2012_mean_years_of_schooling" : "9.3",
+  "_2013_hdi_value" : "0.628",
+  "country" : "Kyrgyzstan",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "3021"
+}
+, {
+  "hdi_rank" : "127",
+  "_2012_expected_years_of_schooling" : "11.3",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.620",
+  "_2013_life_expectancy_at_birth_years" : "64.5",
+  "_2012_mean_years_of_schooling" : "6.2",
+  "_2013_hdi_value" : "0.624",
+  "country" : "Namibia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "9185"
+}
+, {
+  "hdi_rank" : "128",
+  "_2012_expected_years_of_schooling" : "11.7",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.616",
+  "_2013_life_expectancy_at_birth_years" : "67.5",
+  "_2012_mean_years_of_schooling" : "4.4",
+  "_2013_hdi_value" : "0.620",
+  "country" : "Timor-Leste",
+  "_2012_mean_years_of_schooling_note" : "w",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "9674"
+}
+, {
+  "hdi_rank" : "129",
+  "_2012_expected_years_of_schooling" : "11.6",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.616",
+  "_2013_life_expectancy_at_birth_years" : "73.8",
+  "_2012_mean_years_of_schooling" : "5.5",
+  "_2013_hdi_value" : "0.617",
+  "country" : "Honduras",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "4138"
+}
+, {
+  "hdi_rank" : "129",
+  "_2012_expected_years_of_schooling" : "11.6",
+  "_2012_2013_change_in_rank" : "2",
+  "_2012_human_development_index_hdi_value" : "0.614",
+  "_2013_life_expectancy_at_birth_years" : "70.9",
+  "_2012_mean_years_of_schooling" : "4.4",
+  "_2013_hdi_value" : "0.617",
+  "country" : "Morocco",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "6905"
+}
+, {
+  "hdi_rank" : "131",
+  "_2012_expected_years_of_schooling" : "10.6",
+  "_2012_2013_change_in_rank" : "-3",
+  "_2012_human_development_index_hdi_value" : "0.617",
+  "_2013_life_expectancy_at_birth_years" : "71.6",
+  "_2012_mean_years_of_schooling" : "9.0",
+  "_2013_hdi_value" : "0.616",
+  "country" : "Vanuatu",
+  "_2012_mean_years_of_schooling_note" : "o",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "2652"
+}
+, {
+  "hdi_rank" : "132",
+  "_2012_expected_years_of_schooling" : "10.5",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.611",
+  "_2013_life_expectancy_at_birth_years" : "74.8",
+  "_2012_mean_years_of_schooling" : "5.8",
+  "_2013_hdi_value" : "0.614",
+  "country" : "Nicaragua",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "4266"
+}
+, {
+  "hdi_rank" : "133",
+  "_2012_expected_years_of_schooling" : "12.3",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.606",
+  "_2013_life_expectancy_at_birth_years" : "68.9",
+  "_2012_mean_years_of_schooling" : "7.8",
+  "_2013_hdi_value" : "0.607",
+  "country" : "Kiribati",
+  "_2012_mean_years_of_schooling_note" : "p",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "2645"
+}
+, {
+  "hdi_rank" : "133",
+  "_2012_expected_years_of_schooling" : "11.2",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.603",
+  "_2013_life_expectancy_at_birth_years" : "67.2",
+  "_2012_mean_years_of_schooling" : "9.9",
+  "_2013_hdi_value" : "0.607",
+  "country" : "Tajikistan",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "2424"
+}
+, {
+  "hdi_rank" : "135",
+  "_2012_expected_years_of_schooling" : "11.7",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.583",
+  "_2013_life_expectancy_at_birth_years" : "66.4",
+  "_2012_mean_years_of_schooling" : "4.4",
+  "_2013_hdi_value" : "0.586",
+  "country" : "India",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "5150"
+}
+, {
+  "hdi_rank" : "136",
+  "_2012_expected_years_of_schooling" : "12.4",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.580",
+  "_2013_life_expectancy_at_birth_years" : "68.3",
+  "_2012_mean_years_of_schooling" : "2.3",
+  "_2013_hdi_value" : "0.584",
+  "country" : "Bhutan",
+  "_2012_mean_years_of_schooling_note" : "w",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "6775"
+}
+, {
+  "hdi_rank" : "136",
+  "_2012_expected_years_of_schooling" : "10.9",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.579",
+  "_2013_life_expectancy_at_birth_years" : "71.9",
+  "_2012_mean_years_of_schooling" : "5.8",
+  "_2013_hdi_value" : "0.584",
+  "country" : "Cambodia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "2805"
+}
+, {
+  "hdi_rank" : "138",
+  "_2012_expected_years_of_schooling" : "11.5",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.571",
+  "_2013_life_expectancy_at_birth_years" : "61.1",
+  "_2012_mean_years_of_schooling" : "7.0",
+  "_2013_hdi_value" : "0.573",
+  "country" : "Ghana",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "3532"
+}
+, {
+  "hdi_rank" : "139",
+  "_2012_expected_years_of_schooling" : "10.2",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.565",
+  "_2013_life_expectancy_at_birth_years" : "68.3",
+  "_2012_mean_years_of_schooling" : "4.6",
+  "_2013_hdi_value" : "0.569",
+  "country" : "Lao People's Democratic Republic",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "4351"
+}
+, {
+  "hdi_rank" : "140",
+  "_2012_expected_years_of_schooling" : "11.1",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.561",
+  "_2013_life_expectancy_at_birth_years" : "58.8",
+  "_2012_mean_years_of_schooling" : "6.1",
+  "_2013_hdi_value" : "0.564",
+  "country" : "Congo",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "4909"
+}
+, {
+  "hdi_rank" : "141",
+  "_2012_expected_years_of_schooling" : "13.5",
+  "_2012_2013_change_in_rank" : "2",
+  "_2012_human_development_index_hdi_value" : "0.554",
+  "_2013_life_expectancy_at_birth_years" : "58.1",
+  "_2012_mean_years_of_schooling" : "6.5",
+  "_2013_hdi_value" : "0.561",
+  "country" : "Zambia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "2898"
+}
+, {
+  "hdi_rank" : "142",
+  "_2012_expected_years_of_schooling" : "10.0",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.554",
+  "_2013_life_expectancy_at_birth_years" : "70.7",
+  "_2012_mean_years_of_schooling" : "5.1",
+  "_2013_hdi_value" : "0.558",
+  "country" : "Bangladesh",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "2713"
+}
+, {
+  "hdi_rank" : "142",
+  "_2012_expected_years_of_schooling" : "11.3",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.556",
+  "_2013_life_expectancy_at_birth_years" : "66.3",
+  "_2012_mean_years_of_schooling" : "4.7",
+  "_2013_hdi_value" : "0.558",
+  "country" : "Sao Tome and Principe",
+  "_2012_mean_years_of_schooling_note" : "w",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "3111"
+}
+, {
+  "hdi_rank" : "144",
+  "_2012_expected_years_of_schooling" : "8.5",
+  "_2012_2013_change_in_rank" : "-3",
+  "_2012_human_development_index_hdi_value" : "0.556",
+  "_2013_life_expectancy_at_birth_years" : "53.1",
+  "_2012_mean_years_of_schooling" : "5.4",
+  "_2013_hdi_value" : "0.556",
+  "country" : "Equatorial Guinea",
+  "_2012_mean_years_of_schooling_note" : "p",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "21972"
+}
+, {
+  "_2012_expected_years_of_schooling" : "9.0",
+  "_2012_human_development_index_hdi_value" : "0.490",
+  "_2013_life_expectancy_at_birth_years" : "59.4",
+  "_2012_mean_years_of_schooling" : "4.2",
+  "_2013_hdi_value" : "0.493",
+  "country" : "Low human development",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "2904"
+}
+, {
+  "hdi_rank" : "145",
+  "_2012_expected_years_of_schooling" : "12.4",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.537",
+  "_2013_life_expectancy_at_birth_years" : "68.4",
+  "_2012_mean_years_of_schooling" : "3.2",
+  "_2013_hdi_value" : "0.540",
+  "country" : "Nepal",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "2194"
+}
+, {
+  "hdi_rank" : "146",
+  "_2012_expected_years_of_schooling" : "7.7",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.535",
+  "_2013_life_expectancy_at_birth_years" : "66.6",
+  "_2012_mean_years_of_schooling" : "4.7",
+  "_2013_hdi_value" : "0.537",
+  "country" : "Pakistan",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "4652"
+}
+, {
+  "hdi_rank" : "147",
+  "_2012_expected_years_of_schooling" : "11.0",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.531",
+  "_2013_life_expectancy_at_birth_years" : "61.7",
+  "_2012_mean_years_of_schooling" : "6.3",
+  "_2013_hdi_value" : "0.535",
+  "country" : "Kenya",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "2158"
+}
+, {
+  "hdi_rank" : "148",
+  "_2012_expected_years_of_schooling" : "11.3",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.529",
+  "_2013_life_expectancy_at_birth_years" : "49.0",
+  "_2012_mean_years_of_schooling" : "7.1",
+  "_2013_hdi_value" : "0.530",
+  "country" : "Swaziland",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "5536"
+}
+, {
+  "hdi_rank" : "149",
+  "_2012_expected_years_of_schooling" : "11.4",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.524",
+  "_2013_life_expectancy_at_birth_years" : "51.9",
+  "_2012_mean_years_of_schooling" : "4.7",
+  "_2013_hdi_value" : "0.526",
+  "country" : "Angola",
+  "_2012_mean_years_of_schooling_note" : "w",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "6323"
+}
+, {
+  "hdi_rank" : "150",
+  "_2012_expected_years_of_schooling" : "8.6",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.520",
+  "_2013_life_expectancy_at_birth_years" : "65.2",
+  "_2012_mean_years_of_schooling" : "4.0",
+  "_2013_hdi_value" : "0.524",
+  "country" : "Myanmar",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp_note" : "h",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "3998"
+}
+, {
+  "hdi_rank" : "151",
+  "_2012_expected_years_of_schooling" : "13.2",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.502",
+  "_2013_life_expectancy_at_birth_years" : "64.1",
+  "_2012_mean_years_of_schooling" : "3.3",
+  "_2013_hdi_value" : "0.506",
+  "country" : "Rwanda",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1403"
+}
+, {
+  "hdi_rank" : "152",
+  "_2012_expected_years_of_schooling" : "10.4",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.501",
+  "_2013_life_expectancy_at_birth_years" : "55.1",
+  "_2012_mean_years_of_schooling" : "5.9",
+  "_2013_hdi_value" : "0.504",
+  "country" : "Cameroon",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "2557"
+}
+, {
+  "hdi_rank" : "152",
+  "_2012_expected_years_of_schooling" : "9.0",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.500",
+  "_2013_life_expectancy_at_birth_years" : "52.5",
+  "_2012_mean_years_of_schooling" : "5.2",
+  "_2013_hdi_value" : "0.504",
+  "country" : "Nigeria",
+  "_2012_mean_years_of_schooling_note" : "w",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "5353"
+}
+, {
+  "hdi_rank" : "154",
+  "_2012_expected_years_of_schooling" : "9.2",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.499",
+  "_2013_life_expectancy_at_birth_years" : "63.1",
+  "_2012_mean_years_of_schooling" : "2.5",
+  "_2013_hdi_value" : "0.500",
+  "country" : "Yemen",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "3945"
+}
+, {
+  "hdi_rank" : "155",
+  "_2012_expected_years_of_schooling" : "10.3",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.496",
+  "_2013_life_expectancy_at_birth_years" : "64.7",
+  "_2012_mean_years_of_schooling" : "5.2",
+  "_2013_hdi_value" : "0.498",
+  "country" : "Madagascar",
+  "_2012_mean_years_of_schooling_note" : "p",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1333"
+}
+, {
+  "hdi_rank" : "156",
+  "_2012_expected_years_of_schooling" : "9.3",
+  "_2012_2013_change_in_rank" : "4",
+  "_2012_human_development_index_hdi_value" : "0.484",
+  "_2013_life_expectancy_at_birth_years" : "59.9",
+  "_2012_mean_years_of_schooling" : "7.2",
+  "_2013_hdi_value" : "0.492",
+  "country" : "Zimbabwe",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1307"
+}
+, {
+  "hdi_rank" : "157",
+  "_2012_expected_years_of_schooling_note" : "p",
+  "_2012_expected_years_of_schooling" : "8.9",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.490",
+  "_2013_life_expectancy_at_birth_years" : "62.4",
+  "_2012_mean_years_of_schooling" : "3.9",
+  "_2013_hdi_value" : "0.491",
+  "country" : "Papua New Guinea",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "2453"
+}
+, {
+  "hdi_rank" : "157",
+  "_2012_expected_years_of_schooling" : "9.2",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.489",
+  "_2013_life_expectancy_at_birth_years" : "67.7",
+  "_2012_mean_years_of_schooling" : "4.5",
+  "_2013_hdi_value" : "0.491",
+  "country" : "Solomon Islands",
+  "_2012_mean_years_of_schooling_note" : "p",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1385"
+}
+, {
+  "hdi_rank" : "159",
+  "_2012_expected_years_of_schooling" : "12.8",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.486",
+  "_2013_life_expectancy_at_birth_years" : "60.9",
+  "_2012_mean_years_of_schooling" : "2.8",
+  "_2013_hdi_value" : "0.488",
+  "country" : "Comoros",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1505"
+}
+, {
+  "hdi_rank" : "159",
+  "_2012_expected_years_of_schooling" : "9.2",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.484",
+  "_2013_life_expectancy_at_birth_years" : "61.5",
+  "_2012_mean_years_of_schooling" : "5.1",
+  "_2013_hdi_value" : "0.488",
+  "country" : "Tanzania (United Republic of)",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1702"
+}
+, {
+  "hdi_rank" : "161",
+  "_2012_expected_years_of_schooling" : "8.2",
+  "_2012_2013_change_in_rank" : "-2",
+  "_2012_human_development_index_hdi_value" : "0.485",
+  "_2013_life_expectancy_at_birth_years" : "61.6",
+  "_2012_mean_years_of_schooling" : "3.7",
+  "_2013_hdi_value" : "0.487",
+  "country" : "Mauritania",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "2988"
+}
+, {
+  "hdi_rank" : "162",
+  "_2012_expected_years_of_schooling" : "11.1",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.481",
+  "_2013_life_expectancy_at_birth_years" : "49.4",
+  "_2012_mean_years_of_schooling" : "5.9",
+  "_2013_hdi_value" : "0.486",
+  "country" : "Lesotho",
+  "_2012_mean_years_of_schooling_note" : "b",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "2798"
+}
+, {
+  "hdi_rank" : "163",
+  "_2012_expected_years_of_schooling" : "7.9",
+  "_2012_2013_change_in_rank" : "-3",
+  "_2012_human_development_index_hdi_value" : "0.484",
+  "_2013_life_expectancy_at_birth_years" : "63.5",
+  "_2012_mean_years_of_schooling" : "4.5",
+  "_2013_hdi_value" : "0.485",
+  "country" : "Senegal",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "2169"
+}
+, {
+  "hdi_rank" : "164",
+  "_2012_expected_years_of_schooling" : "10.8",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.480",
+  "_2013_life_expectancy_at_birth_years" : "59.2",
+  "_2012_mean_years_of_schooling" : "5.4",
+  "_2013_hdi_value" : "0.484",
+  "country" : "Uganda",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1335"
+}
+, {
+  "hdi_rank" : "165",
+  "_2012_expected_years_of_schooling" : "11.0",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.473",
+  "_2013_life_expectancy_at_birth_years" : "59.3",
+  "_2012_mean_years_of_schooling" : "3.2",
+  "_2013_hdi_value" : "0.476",
+  "country" : "Benin",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1726"
+}
+, {
+  "hdi_rank" : "166",
+  "_2012_expected_years_of_schooling_note" : "p",
+  "_2012_expected_years_of_schooling" : "7.3",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.472",
+  "_2013_life_expectancy_at_birth_years" : "62.1",
+  "_2012_mean_years_of_schooling" : "3.1",
+  "_2013_hdi_value" : "0.473",
+  "country" : "Sudan",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "3428"
+}
+, {
+  "hdi_rank" : "166",
+  "_2012_expected_years_of_schooling" : "12.2",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.470",
+  "_2013_life_expectancy_at_birth_years" : "56.5",
+  "_2012_mean_years_of_schooling" : "5.3",
+  "_2013_hdi_value" : "0.473",
+  "country" : "Togo",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1129"
+}
+, {
+  "hdi_rank" : "168",
+  "_2012_expected_years_of_schooling_note" : "p",
+  "_2012_expected_years_of_schooling" : "7.6",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.469",
+  "_2013_life_expectancy_at_birth_years" : "63.1",
+  "_2012_mean_years_of_schooling" : "4.9",
+  "_2013_hdi_value" : "0.471",
+  "country" : "Haiti",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1636"
+}
+, {
+  "hdi_rank" : "169",
+  "_2012_expected_years_of_schooling" : "9.3",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.466",
+  "_2013_life_expectancy_at_birth_years" : "60.9",
+  "_2012_mean_years_of_schooling" : "3.2",
+  "_2013_hdi_value" : "0.468",
+  "country" : "Afghanistan",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1904"
+}
+, {
+  "hdi_rank" : "170",
+  "_2012_expected_years_of_schooling" : "6.4",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.465",
+  "_2013_life_expectancy_at_birth_years" : "61.8",
+  "_2012_mean_years_of_schooling" : "3.8",
+  "_2013_hdi_value" : "0.467",
+  "country" : "Djibouti",
+  "_2012_mean_years_of_schooling_note" : "r",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp_note" : "h",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "3109"
+}
+, {
+  "hdi_rank" : "171",
+  "_2012_expected_years_of_schooling_note" : "p",
+  "_2012_expected_years_of_schooling" : "8.9",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.448",
+  "_2013_life_expectancy_at_birth_years" : "50.7",
+  "_2012_mean_years_of_schooling" : "4.3",
+  "_2013_hdi_value" : "0.452",
+  "country" : "Côte d'Ivoire",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "2774"
+}
+, {
+  "hdi_rank" : "172",
+  "_2012_expected_years_of_schooling" : "9.1",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.438",
+  "_2013_life_expectancy_at_birth_years" : "58.8",
+  "_2012_mean_years_of_schooling" : "2.8",
+  "_2013_hdi_value" : "0.441",
+  "country" : "Gambia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1557"
+}
+, {
+  "hdi_rank" : "173",
+  "_2012_expected_years_of_schooling" : "8.5",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.429",
+  "_2013_life_expectancy_at_birth_years" : "63.6",
+  "_2012_mean_years_of_schooling" : "2.4",
+  "_2013_hdi_value" : "0.435",
+  "country" : "Ethiopia",
+  "_2012_mean_years_of_schooling_note" : "w",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1303"
+}
+, {
+  "hdi_rank" : "174",
+  "_2012_expected_years_of_schooling" : "10.8",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.411",
+  "_2013_life_expectancy_at_birth_years" : "55.3",
+  "_2012_mean_years_of_schooling" : "4.2",
+  "_2013_hdi_value" : "0.414",
+  "country" : "Malawi",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "715"
+}
+, {
+  "hdi_rank" : "175",
+  "_2012_expected_years_of_schooling_note" : "p",
+  "_2012_expected_years_of_schooling" : "8.5",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.407",
+  "_2013_life_expectancy_at_birth_years" : "60.6",
+  "_2012_mean_years_of_schooling" : "3.9",
+  "_2013_hdi_value" : "0.412",
+  "country" : "Liberia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "752"
+}
+, {
+  "hdi_rank" : "176",
+  "_2012_expected_years_of_schooling" : "8.6",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.406",
+  "_2013_life_expectancy_at_birth_years" : "55.0",
+  "_2012_mean_years_of_schooling" : "2.0",
+  "_2013_hdi_value" : "0.407",
+  "country" : "Mali",
+  "_2012_mean_years_of_schooling_note" : "b",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1499"
+}
+, {
+  "hdi_rank" : "177",
+  "_2012_expected_years_of_schooling" : "9.0",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.396",
+  "_2013_life_expectancy_at_birth_years" : "54.3",
+  "_2012_mean_years_of_schooling" : "2.3",
+  "_2013_hdi_value" : "0.396",
+  "country" : "Guinea-Bissau",
+  "_2012_mean_years_of_schooling_note" : "r",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1090"
+}
+, {
+  "hdi_rank" : "178",
+  "_2012_expected_years_of_schooling" : "9.5",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.389",
+  "_2013_life_expectancy_at_birth_years" : "50.3",
+  "_2012_mean_years_of_schooling" : "3.2",
+  "_2013_hdi_value" : "0.393",
+  "country" : "Mozambique",
+  "_2012_mean_years_of_schooling_note" : "w",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1011"
+}
+, {
+  "hdi_rank" : "179",
+  "_2012_expected_years_of_schooling" : "8.7",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.391",
+  "_2013_life_expectancy_at_birth_years" : "56.1",
+  "_2012_mean_years_of_schooling" : "1.6",
+  "_2013_hdi_value" : "0.392",
+  "country" : "Guinea",
+  "_2012_mean_years_of_schooling_note" : "w",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1142"
+}
+, {
+  "hdi_rank" : "180",
+  "_2012_expected_years_of_schooling" : "10.1",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.386",
+  "_2013_life_expectancy_at_birth_years" : "54.1",
+  "_2012_mean_years_of_schooling" : "2.7",
+  "_2013_hdi_value" : "0.389",
+  "country" : "Burundi",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "749"
+}
+, {
+  "hdi_rank" : "181",
+  "_2012_expected_years_of_schooling" : "7.5",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.385",
+  "_2013_life_expectancy_at_birth_years" : "56.3",
+  "_2012_mean_years_of_schooling" : "1.3",
+  "_2013_hdi_value" : "0.388",
+  "country" : "Burkina Faso",
+  "_2012_mean_years_of_schooling_note" : "r",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1602"
+}
+, {
+  "hdi_rank" : "182",
+  "_2012_expected_years_of_schooling" : "4.1",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.380",
+  "_2013_life_expectancy_at_birth_years" : "62.9",
+  "_2012_mean_years_of_schooling" : "3.4",
+  "_2013_hdi_value" : "0.381",
+  "country" : "Eritrea",
+  "_2012_mean_years_of_schooling_note" : "p",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1147"
+}
+, {
+  "hdi_rank" : "183",
+  "_2012_expected_years_of_schooling_note" : "p",
+  "_2012_expected_years_of_schooling" : "7.5",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.368",
+  "_2013_life_expectancy_at_birth_years" : "45.6",
+  "_2012_mean_years_of_schooling" : "2.9",
+  "_2013_hdi_value" : "0.374",
+  "country" : "Sierra Leone",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1815"
+}
+, {
+  "hdi_rank" : "184",
+  "_2012_expected_years_of_schooling" : "7.4",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.370",
+  "_2013_life_expectancy_at_birth_years" : "51.2",
+  "_2012_mean_years_of_schooling" : "1.5",
+  "_2013_hdi_value" : "0.372",
+  "country" : "Chad",
+  "_2012_mean_years_of_schooling_note" : "s",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1622"
+}
+, {
+  "hdi_rank" : "185",
+  "_2012_expected_years_of_schooling" : "7.2",
+  "_2012_2013_change_in_rank" : "0",
+  "_2012_human_development_index_hdi_value" : "0.365",
+  "_2013_life_expectancy_at_birth_years" : "50.2",
+  "_2012_mean_years_of_schooling" : "3.5",
+  "_2013_hdi_value" : "0.341",
+  "country" : "Central African Republic",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "588"
+}
+, {
+  "hdi_rank" : "186",
+  "_2012_expected_years_of_schooling" : "9.7",
+  "_2012_2013_change_in_rank" : "1",
+  "_2012_human_development_index_hdi_value" : "0.333",
+  "_2013_life_expectancy_at_birth_years" : "50.0",
+  "_2012_mean_years_of_schooling" : "3.1",
+  "_2013_hdi_value" : "0.338",
+  "country" : "Congo (Democratic Republic of the)",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "444"
+}
+, {
+  "hdi_rank" : "187",
+  "_2012_expected_years_of_schooling" : "5.4",
+  "_2012_2013_change_in_rank" : "-1",
+  "_2012_human_development_index_hdi_value" : "0.335",
+  "_2013_life_expectancy_at_birth_years" : "58.4",
+  "_2012_mean_years_of_schooling" : "1.4",
+  "_2013_hdi_value" : "0.337",
+  "country" : "Niger",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "873"
+}
+, {
+  "_2013_life_expectancy_at_birth_years" : "70.0",
+  "country" : "Korea (Democratic People's Rep. of)"
+}
+, {
+  "_2013_life_expectancy_at_birth_years" : "72.6",
+  "country" : "Marshall Islands",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "4206"
+}
+, {
+  "country" : "Monaco"
+}
+, {
+  "_2012_expected_years_of_schooling" : "9.3",
+  "country" : "Nauru"
+}
+, {
+  "_2012_expected_years_of_schooling" : "15.3",
+  "country" : "San Marino"
+}
+, {
+  "_2013_life_expectancy_at_birth_years" : "55.1",
+  "country" : "Somalia"
+}
+, {
+  "_2013_life_expectancy_at_birth_years" : "55.3",
+  "country" : "South Sudan",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "1450"
+}
+, {
+  "_2012_expected_years_of_schooling" : "10.8",
+  "country" : "Tuvalu",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "5151"
+}
+, {
+  "_2012_expected_years_of_schooling" : "11.8",
+  "_2012_human_development_index_hdi_value" : "0.681",
+  "_2013_life_expectancy_at_birth_years" : "70.2",
+  "_2012_mean_years_of_schooling" : "6.3",
+  "_2013_hdi_value" : "0.682",
+  "country" : "Arab States",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "15817"
+}
+, {
+  "_2012_expected_years_of_schooling" : "12.5",
+  "_2012_human_development_index_hdi_value" : "0.699",
+  "_2013_life_expectancy_at_birth_years" : "74.0",
+  "_2012_mean_years_of_schooling" : "7.4",
+  "_2013_hdi_value" : "0.703",
+  "country" : "East Asia and the Pacific",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "10499"
+}
+, {
+  "_2012_expected_years_of_schooling" : "13.6",
+  "_2012_human_development_index_hdi_value" : "0.735",
+  "_2013_life_expectancy_at_birth_years" : "71.3",
+  "_2012_mean_years_of_schooling" : "9.6",
+  "_2013_hdi_value" : "0.738",
+  "country" : "Europe and Central Asia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "12415"
+}
+, {
+  "_2012_expected_years_of_schooling" : "13.7",
+  "_2012_human_development_index_hdi_value" : "0.739",
+  "_2013_life_expectancy_at_birth_years" : "74.9",
+  "_2012_mean_years_of_schooling" : "7.9",
+  "_2013_hdi_value" : "0.740",
+  "country" : "Latin America and the Caribbean",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "13767"
+}
+, {
+  "_2012_expected_years_of_schooling" : "11.2",
+  "_2012_human_development_index_hdi_value" : "0.586",
+  "_2013_life_expectancy_at_birth_years" : "67.2",
+  "_2012_mean_years_of_schooling" : "4.7",
+  "_2013_hdi_value" : "0.588",
+  "country" : "South Asia",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "5195"
+}
+, {
+  "_2012_expected_years_of_schooling" : "9.7",
+  "_2012_human_development_index_hdi_value" : "0.499",
+  "_2013_life_expectancy_at_birth_years" : "56.8",
+  "_2012_mean_years_of_schooling" : "4.8",
+  "_2013_hdi_value" : "0.502",
+  "country" : "Sub-Saharan Africa",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "3152"
+}
+, {
+  "_2012_expected_years_of_schooling" : "9.4",
+  "_2012_human_development_index_hdi_value" : "0.484",
+  "_2013_life_expectancy_at_birth_years" : "61.5",
+  "_2012_mean_years_of_schooling" : "3.9",
+  "_2013_hdi_value" : "0.487",
+  "country" : "Least developed countries",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "2126"
+}
+, {
+  "_2012_expected_years_of_schooling" : "11.0",
+  "_2012_human_development_index_hdi_value" : "0.663",
+  "_2013_life_expectancy_at_birth_years" : "70.0",
+  "_2012_mean_years_of_schooling" : "7.5",
+  "_2013_hdi_value" : "0.665",
+  "country" : "Small island developing states",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "9471"
+}
+, {
+  "_2012_expected_years_of_schooling" : "12.2",
+  "_2012_human_development_index_hdi_value" : "0.700",
+  "_2013_life_expectancy_at_birth_years" : "70.8",
+  "_2012_mean_years_of_schooling" : "7.7",
+  "_2013_hdi_value" : "0.702",
+  "country" : "World",
+  "_2013_gross_national_income_gni_per_capita_2011_ppp" : "13723"
+}
+ ]
