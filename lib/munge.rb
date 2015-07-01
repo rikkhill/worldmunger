@@ -55,4 +55,36 @@ module Munger
     end
   end
 
+  ## Takes a hash of countries and values
+  ## allows interrogation as an index
+  class Index
+    def initialize(data)
+      @data = data.sort_by {|k, v| v}
+      @ranking = {}
+      # 1-indexed
+      @data.each_with_index {|(k, v), i| @ranking[i + 1] = k }
+    end
+
+    def position(key)
+      return @ranking.invert[key]
+    end
+
+    def value(key)
+      return @ranking[key]
+    end
+
+    def neighbours(key)
+      ret = [nil, nil]
+      rank = self.position(key)
+      if rank > 1
+        ret[0] = @ranking[rank - 1]
+      end
+
+      if rank < @ranking.length
+        ret[1] = @ranking[rank + 1]
+      end
+
+      return ret
+    end
+  end
 end
